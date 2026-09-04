@@ -9,7 +9,7 @@ function localImg(url) {
   try {
     const u = new URL(url);
     if (!u.hostname.includes("dolphinhouse.vn")) return url;
-    return "assets/images/products/" + path.basename(u.pathname);
+    return "/assets/images/products/" + path.basename(u.pathname);
   } catch {
     return url;
   }
@@ -25,7 +25,7 @@ const cleanProducts = products.map((p) => ({
   name: p.name,
   slug: p.slug,
   sku: p.sku,
-  permalink: `san-pham.html?slug=${p.slug}`,
+  permalink: `/san-pham/${p.slug}/`,
   short_description: rewriteHtmlImages(p.short_description),
   description: rewriteHtmlImages(p.description),
   on_sale: p.on_sale,
