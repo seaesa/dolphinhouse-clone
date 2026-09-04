@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="page-title">Sản phẩm | Dolphin House</title>
+<link rel="icon" href="assets/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="site-header"></div>
+
+<main class="container">
+  <nav class="breadcrumb">
+    <a href="index.html">Trang chủ</a><span id="crumb-cat-wrap"></span> / <span id="crumb-name"></span>
+  </nav>
+  <div id="product-root"></div>
+</main>
+
+<div id="site-footer"></div>
+
+<script src="js/data/products.data.js"></script>
+<script src="js/data/categories.data.js"></script>
+<script src="js/common.js"></script>
+<script src="js/product.js"></script>
+<script>renderProductPage();</script>
+</body>
+</html>

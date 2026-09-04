@@ -1,0 +1,271 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e2]:
+    - generic [ref=f16e4]:
+      - generic [ref=f16e5]: ☎ HOTLINE 086 6393 892
+      - generic [ref=f16e6]: "Thứ 2-CN : 8h-17h30"
+    - banner [ref=f16e7]:
+      - generic [ref=f16e8]:
+        - link [ref=f16e9] [cursor=pointer]:
+          - /url: index.html
+          - img "Dolphin House" [ref=f16e10]
+        - generic [ref=f16e11]:
+          - searchbox "Tìm kiếm sản phẩm" [ref=f16e12]
+          - button "Tìm kiếm" [ref=f16e13] [cursor=pointer]
+        - link "🛒 0 Giỏ hàng của bạn Chưa có sản phẩm" [ref=f16e14] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f16e15]:
+            - text: 🛒
+            - generic [ref=f16e16]: "0"
+          - generic [ref=f16e17]:
+            - strong [ref=f16e18]: Giỏ hàng của bạn
+            - text: Chưa có sản phẩm
+    - navigation [ref=f16e19]:
+      - button "☰ Danh mục sản phẩm" [ref=f16e21] [cursor=pointer]
+  - main [ref=f16e22]:
+    - navigation [ref=f16e23]:
+      - link "Trang chủ" [ref=f16e24] [cursor=pointer]:
+        - /url: index.html
+      - text: /
+      - link "Chăm sóc gia đình & phòng ngủ" [ref=f16e26] [cursor=pointer]:
+        - /url: danh-muc.html?slug=chan-ga-goi-dem
+      - text: / Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng
+    - generic [ref=f16e27]:
+      - generic [ref=f16e28]:
+        - generic [ref=f16e29]:
+          - img "Tủ sấy GUME GM-8222" [ref=f16e31]
+          - generic [ref=f16e32]:
+            - img "Tủ sấy GUME GM-8222" [ref=f16e33] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e34] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e35] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e36] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e37] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e38] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e39] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e40] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e41] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e42] [cursor=pointer]
+            - img "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [ref=f16e43] [cursor=pointer]
+        - generic [ref=f16e44]:
+          - heading "Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng" [level=1] [ref=f16e45]
+          - button "Sao chép tên" [ref=f16e46] [cursor=pointer]
+          - generic [ref=f16e47]: 1.180.000 ₫
+          - paragraph [ref=f16e49]: GUME GM-8222 là tủ sấy quần áo gấp gọn công suất 2000W, tải sấy tối đa 20kg, dùng bộ gia nhiệt PTC Ceramic và hẹn giờ đến 4 giờ.
+          - generic [ref=f16e50]:
+            - generic [ref=f16e51]:
+              - button "-" [ref=f16e52] [cursor=pointer]
+              - textbox [ref=f16e53]: "1"
+              - button "+" [ref=f16e54] [cursor=pointer]
+            - button "Thêm vào giỏ hàng" [ref=f16e55] [cursor=pointer]
+            - button "Liên hệ" [ref=f16e56] [cursor=pointer]
+          - link "MUA NGAY Gọi điện xác nhận và giao hàng tận nơi" [ref=f16e57] [cursor=pointer]:
+            - /url: tel:0866393892
+            - text: MUA NGAY
+            - generic [ref=f16e58]: Gọi điện xác nhận và giao hàng tận nơi
+          - generic [ref=f16e59]:
+            - generic [ref=f16e60]:
+              - text: "SKU:"
+              - strong [ref=f16e61]: MTS880
+            - generic [ref=f16e62]:
+              - text: "Danh mục:"
+              - link "Chăm sóc gia đình & phòng ngủ" [ref=f16e63] [cursor=pointer]:
+                - /url: danh-muc.html?slug=chan-ga-goi-dem
+            - generic [ref=f16e64]: "Thương hiệu: Gume"
+          - generic [ref=f16e65]:
+            - generic [ref=f16e66]: ✅ Hàng chính hãng 100% — hóa đơn đầy đủ
+            - generic [ref=f16e67]: 🚚 Giao toàn quốc — kiểm tra hàng khi nhận (COD)
+            - generic [ref=f16e68]: 🔁 Đổi trả trong 15 ngày nếu lỗi kỹ thuật
+            - generic [ref=f16e69]: 🛡️ Bảo hành chính hãng 12 tháng
+          - button "💬 Chat Facebook tư vấn — phản hồi nhanh" [ref=f16e70] [cursor=pointer]
+        - complementary [ref=f16e71]:
+          - generic [ref=f16e72]:
+            - generic [ref=f16e73]:
+              - generic [ref=f16e74]: 🚚
+              - generic [ref=f16e75]: Giao hàng trên toàn quốc
+            - generic [ref=f16e76]:
+              - generic [ref=f16e77]: 🔁
+              - generic [ref=f16e78]: Đổi trả trong 15 ngày nếu lỗi kỹ thuật
+            - generic [ref=f16e79]:
+              - generic [ref=f16e80]: 🏠
+              - generic [ref=f16e81]: Thanh toán tại nhà hoặc qua thẻ
+            - generic [ref=f16e82]:
+              - generic [ref=f16e83]: 📞
+              - generic [ref=f16e84]:
+                - text: Tổng CSKH 8h30 - 18h00
+                - generic [ref=f16e85]: 086 639 3892
+            - generic [ref=f16e86]:
+              - generic [ref=f16e87]: 📞
+              - generic [ref=f16e88]:
+                - text: Kinh doanh
+                - generic [ref=f16e89]: 086 639 38920378 840 450
+            - generic [ref=f16e90]:
+              - generic [ref=f16e91]: 📞
+              - generic [ref=f16e92]:
+                - text: Kỹ thuật
+                - generic [ref=f16e93]: 086 639 3892
+            - generic [ref=f16e94]:
+              - generic [ref=f16e95]: 📦
+              - generic [ref=f16e96]: Lắp đặt tại các thành phố lớn
+      - generic [ref=f16e97]:
+        - generic [ref=f16e98]: MÔ TẢ SẢN PHẨM
+        - generic [ref=f16e99]:
+          - paragraph [ref=f16e100]:
+            - text: Mùa nồm, một cơn mưa kéo dài hay căn hộ ít nắng đều có thể khiến giá phơi đầy quần áo ẩm từ sáng đến tối.
+            - strong [ref=f16e101]: Tủ sấy quần áo GUME GM-8222
+            - text: "giúp gia đình chủ động hơn trong những ngày như vậy: treo đồ vào khoang, kéo kín vỏ tủ, chọn thời gian và để luồng khí ấm hoàn tất phần còn lại."
+          - paragraph [ref=f16e102]: Điểm dễ chịu nhất không chỉ là quần áo khô nhanh hơn, mà là cảm giác sáng hôm sau vẫn có đồng phục sạch cho con, áo sơ mi khô cho người đi làm và khăn tắm không còn ẩm lạnh khi chạm vào.
+          - figure "GUME GM-8222 giúp gia đình chủ động sấy quần áo trong ngày mưa nồm." [ref=f16e103]:
+            - img "Tủ sấy quần áo GUME GM-8222 trong phòng giặt ngày mưa" [ref=f16e104]
+          - heading "Chủ động khi quần áo chưa kịp khô" [level=2] [ref=f16e106]
+          - heading "Công suất 2000W và bộ gia nhiệt PTC Ceramic" [level=3] [ref=f16e107]
+          - paragraph [ref=f16e108]: Bộ gia nhiệt PTC Ceramic tạo luồng khí nóng đưa vào khoang sấy, hỗ trợ làm bay hơi ẩm trên quần áo. Công suất 2000W phù hợp khi cần xử lý nhiều đồ sau một mẻ giặt, đặc biệt trong thời tiết độ ẩm cao khiến cách phơi tự nhiên mất nhiều thời gian.
+          - paragraph [ref=f16e109]: Tốc độ khô thực tế phụ thuộc lượng đồ, độ dày vải, mức vắt của máy giặt và độ thoáng giữa các móc. Quần áo đã được vắt kỹ sẽ khô nhanh và tiết kiệm điện hơn đồ còn sũng nước.
+          - heading "Tải sấy tối đa 20kg nhưng cần treo có khoảng cách" [level=3] [ref=f16e110]
+          - paragraph [ref=f16e111]: Khung tủ được công bố chịu tải sấy tối đa 20kg. Đây là giới hạn tải, không có nghĩa nên nhồi kín khoang trong mỗi lần dùng. Khi quần áo chạm sát nhau, khí nóng khó lưu thông và thời gian sấy kéo dài.
+          - paragraph [ref=f16e112]: Nên treo áo, quần thành từng lớp có khoảng cách; đồ dày như khăn tắm, quần jean hoặc áo khoác cần đặt gần vùng luồng gió nhưng không che cửa thổi. Đồ mỏng có thể lấy ra trước để tránh sấy lâu không cần thiết.
+          - heading "Dễ đưa vào nếp sinh hoạt của gia đình" [level=2] [ref=f16e113]
+          - heading "Hẹn giờ tối đa 4 giờ, điều khiển trực tiếp hoặc từ xa" [level=3] [ref=f16e114]
+          - paragraph [ref=f16e115]: Người dùng có thể chọn thời gian sấy phù hợp bằng bảng điều khiển cảm ứng hoặc điều khiển từ xa. Mốc hẹn giờ tối đa 4 giờ giúp chủ động hơn khi sấy nhiều loại vải, nhưng nên kiểm tra nhãn chăm sóc trên quần áo trước khi chọn thời gian dài.
+          - paragraph [ref=f16e116]: Một cách dùng thực tế là bắt đầu với thời gian ngắn cho đồ mỏng, kiểm tra độ khô rồi tăng thêm nếu cần. Cách này nhẹ nhàng với sợi vải hơn việc mặc định chạy lâu cho mọi mẻ.
+          - heading "Khung gấp gọn và bánh xe dễ di chuyển" [level=3] [ref=f16e117]
+          - paragraph [ref=f16e118]: Khi lắp hoàn chỉnh, tủ có kích thước khoảng 90 × 50 × 170cm, đủ cao để treo nhiều trang phục. Khung có thể gấp gọn và bánh xe hỗ trợ di chuyển khi không sử dụng, phù hợp căn hộ cần tận dụng linh hoạt khu vực ban công hoặc phòng giặt.
+          - paragraph [ref=f16e119]: Vẫn nên chọn một vị trí bằng phẳng, khô và thoáng. Không đặt tủ trong phòng tắm ướt, sát rèm hoặc gần vật dễ cháy. Dây điện cần cắm trực tiếp vào ổ chắc chắn, tránh dùng chung ổ kéo dài với nhiều thiết bị công suất cao.
+          - heading "GUME GM-8222 phù hợp với ai?" [level=2] [ref=f16e120]
+          - paragraph [ref=f16e121]: Sản phẩm phù hợp với gia đình ở chung cư, nhà ít nắng, khu vực có mùa mưa nồm hoặc thường cần quần áo khô đúng giờ. Đây cũng là giải pháp bổ sung cho những món đồ không muốn quay mạnh trong máy sấy lồng.
+          - paragraph [ref=f16e122]: Tủ sấy dùng khí nóng trong khoang vải, không tạo hiệu quả làm phẳng như bàn ủi và không nên được mô tả như thiết bị khử khuẩn chuyên dụng. Với vải nhạy nhiệt, len, lụa hoặc đồ có chi tiết dán, luôn kiểm tra nhãn hướng dẫn trước khi sấy.
+          - heading "Thông số kỹ thuật chính" [level=3] [ref=f16e123]
+          - table [ref=f16e124]:
+            - rowgroup [ref=f16e125]:
+              - row [ref=f16e126]:
+                - rowheader "Model" [ref=f16e127]
+                - cell "GM-8222" [ref=f16e128]
+              - row [ref=f16e129]:
+                - rowheader "Công suất" [ref=f16e130]
+                - cell "2000W" [ref=f16e131]
+              - row [ref=f16e132]:
+                - rowheader "Điện áp" [ref=f16e133]
+                - cell "220V" [ref=f16e134]
+              - row [ref=f16e135]:
+                - rowheader "Bộ gia nhiệt" [ref=f16e136]
+                - cell "PTC Ceramic" [ref=f16e137]
+              - row [ref=f16e138]:
+                - rowheader "Tải sấy tối đa" [ref=f16e139]
+                - cell "20kg theo thông tin sản phẩm" [ref=f16e140]
+              - row [ref=f16e141]:
+                - rowheader "Hẹn giờ" [ref=f16e142]
+                - cell "Tối đa 4 giờ" [ref=f16e143]
+              - row [ref=f16e144]:
+                - rowheader "Điều khiển" [ref=f16e145]
+                - cell "Cảm ứng và điều khiển từ xa" [ref=f16e146]
+              - row [ref=f16e147]:
+                - rowheader "Kích thước lắp đặt" [ref=f16e148]
+                - cell "Khoảng 90 × 50 × 170cm" [ref=f16e149]
+              - row [ref=f16e150]:
+                - rowheader "Khối lượng" [ref=f16e151]
+                - cell "Khoảng 4kg" [ref=f16e152]
+              - row [ref=f16e153]:
+                - rowheader "Bảo hành" [ref=f16e154]
+                - cell "12 tháng theo thông tin sản phẩm" [ref=f16e155]
+          - heading "Quy trình sấy gọn và an toàn" [level=3] [ref=f16e156]
+          - list [ref=f16e157]:
+            - listitem [ref=f16e158]: Vắt kỹ quần áo và kiểm tra nhãn chăm sóc vải.
+            - listitem [ref=f16e159]: Treo đồ có khoảng cách, không che khu vực thổi khí.
+            - listitem [ref=f16e160]: Kéo kín vỏ tủ, cắm điện vào ổ riêng chắc chắn và chọn thời gian.
+            - listitem [ref=f16e161]: Để máy hoàn tất, rút điện và chờ nguội trước khi gấp cất.
+          - heading "Câu hỏi thường gặp" [level=3] [ref=f16e162]
+          - paragraph [ref=f16e163]:
+            - strong [ref=f16e164]: Có nên sấy đủ 20kg mỗi lần không?
+            - text: 20kg là tải tối đa công bố. Để khí lưu thông tốt và đồ khô đều, nên giảm lượng nếu quần áo dày hoặc khoang bị treo quá kín.
+          - paragraph [ref=f16e165]:
+            - strong [ref=f16e166]: Tủ có làm quần áo hết nhăn không?
+            - text: Việc treo thẳng khi sấy có thể giảm một phần nếp gấp, nhưng không thay thế chức năng của bàn ủi hoặc máy hấp là quần áo.
+          - paragraph [ref=f16e167]:
+            - strong [ref=f16e168]: Có thể để máy chạy khi ra khỏi nhà không?
+            - text: Không nên để thiết bị gia nhiệt hoạt động mà không có người kiểm soát. Luôn giữ khu vực xung quanh thông thoáng và làm theo hướng dẫn an toàn.
+          - paragraph [ref=f16e169]:
+            - strong [ref=f16e170]: GUME GM-8222
+            - text: giúp gia đình bớt phụ thuộc vào nắng mà vẫn giữ được cách treo sấy quen thuộc. Dolphin House có thể hỗ trợ bạn kiểm tra diện tích đặt tủ, tải đồ thường dùng và cách bố trí ổ điện trước khi lựa chọn.
+        - button "Xem thêm ▼" [ref=f16e171] [cursor=pointer]
+      - generic [ref=f16e172]:
+        - heading "Sản phẩm tương tự" [level=2] [ref=f16e173]
+        - generic [ref=f16e174]:
+          - generic [ref=f16e175]:
+            - generic [ref=f16e176]: Giảm giá!
+            - link [ref=f16e177] [cursor=pointer]:
+              - /url: san-pham.html?slug=may-bat-muoi-sinh-hoc-gkoch-yg-m006
+              - img "Máy Bắt Muỗi Sinh Học GKÖCH YG-M006 – Tia UV 360° Không Tiếng Ồn" [ref=f16e178]
+            - heading [level=3] [ref=f16e179]:
+              - link "Máy Bắt Muỗi Sinh Học GKÖCH YG-M006 – Tia UV 360° Không Tiếng Ồn" [ref=f16e180] [cursor=pointer]:
+                - /url: san-pham.html?slug=may-bat-muoi-sinh-hoc-gkoch-yg-m006
+            - generic [ref=f16e181]: 490.000 ₫350.000 ₫
+          - generic [ref=f16e182]:
+            - generic [ref=f16e183]: Giảm giá!
+            - link [ref=f16e184] [cursor=pointer]:
+              - /url: san-pham.html?slug=chieu-may-ngai-cuu-nicolas-sieu-cap
+              - img "Chiếu Mây Ngải Cứu Nicolas – Đế 5D Chống Trượt, Kháng Khuẩn" [ref=f16e185]
+            - heading [level=3] [ref=f16e186]:
+              - link "Chiếu Mây Ngải Cứu Nicolas – Đế 5D Chống Trượt, Kháng Khuẩn" [ref=f16e187] [cursor=pointer]:
+                - /url: san-pham.html?slug=chieu-may-ngai-cuu-nicolas-sieu-cap
+            - generic [ref=f16e188]: 350.000 ₫270.000 ₫
+          - generic [ref=f16e189]:
+            - generic [ref=f16e190]: Giảm giá!
+            - link [ref=f16e191] [cursor=pointer]:
+              - /url: san-pham.html?slug=goi-moncler-am-ap-em-mem-sang-trong-chuan-au-bo-2-chiec
+              - img "Gối Lông Vũ Moncler 48x74cm – Bộ 2 Chiếc, Chuẩn Âu" [ref=f16e192]
+            - heading [level=3] [ref=f16e193]:
+              - link "Gối Lông Vũ Moncler 48x74cm – Bộ 2 Chiếc, Chuẩn Âu" [ref=f16e194] [cursor=pointer]:
+                - /url: san-pham.html?slug=goi-moncler-am-ap-em-mem-sang-trong-chuan-au-bo-2-chiec
+            - generic [ref=f16e195]: 890.000 ₫650.000 ₫
+          - generic [ref=f16e196]:
+            - generic [ref=f16e197]: Giảm giá!
+            - link [ref=f16e198] [cursor=pointer]:
+              - /url: san-pham.html?slug=sung-massage-cam-tay-fman-m1
+              - img "Súng Massage Cầm Tay Fman M1 – 5 Đầu, 60W, Pin 2000mAh" [ref=f16e199]
+            - heading [level=3] [ref=f16e200]:
+              - link "Súng Massage Cầm Tay Fman M1 – 5 Đầu, 60W, Pin 2000mAh" [ref=f16e201] [cursor=pointer]:
+                - /url: san-pham.html?slug=sung-massage-cam-tay-fman-m1
+            - generic [ref=f16e202]: 1.850.000 ₫850.000 ₫
+  - generic [ref=f16e203]:
+    - contentinfo [ref=f16e204]:
+      - generic [ref=f16e206]:
+        - generic [ref=f16e207]:
+          - heading "Thông tin liên hệ" [level=5] [ref=f16e208]
+          - paragraph [ref=f16e209]: "Địa chỉ: S219 Đại Dương 8, Vinhomes Ocean Park, Gia Lâm, Hà Nội Hotline: 086 639 3892 Email: dolphinhouse.vn@gmail.com Tư vấn: Đồ gia dụng thông minh, điện gia dụng và tiện ích cao cấp cho gia đình hiện đại"
+          - generic [ref=f16e210]:
+            - link "Facebook" [ref=f16e211] [cursor=pointer]:
+              - /url: "#"
+              - text: f
+            - link "YouTube" [ref=f16e212] [cursor=pointer]:
+              - /url: "#"
+              - text: ▶
+        - generic [ref=f16e213]:
+          - heading "Trợ giúp" [level=5] [ref=f16e214]
+          - list [ref=f16e215]:
+            - listitem [ref=f16e216]:
+              - link "› Gia dụng thông minh cao cấp" [ref=f16e217] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=f16e218]:
+              - link "› Tư vấn chọn mua" [ref=f16e219] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e220]:
+              - link "› Về Dolphin House" [ref=f16e221] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e222]:
+              - link "› Hỗ trợ khách hàng" [ref=f16e223] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e224]:
+              - link "› Hình thức thanh toán" [ref=f16e225] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e226]:
+              - link "› Chính sách vận chuyển" [ref=f16e227] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f16e228]:
+          - heading "Dolphin House" [level=5] [ref=f16e229]
+          - paragraph [ref=f16e230]: "- sản phẩm chọn lọc, tư vấn rõ ràng, giao diện gọn nhẹ."
+        - generic [ref=f16e231]:
+          - heading "Bản đồ" [level=5] [ref=f16e232]
+          - img "Bản đồ Dolphin House" [ref=f16e233]
+          - button "Xem bản đồ" [ref=f16e234] [cursor=pointer]
+      - generic [ref=f16e235]: Copyright © 2026 dolphinhouse.vn - All Rights Reserved.
+    - link "Chat Zalo" [ref=f16e236] [cursor=pointer]:
+      - /url: https://zalo.me/0866393892
+      - text: Z

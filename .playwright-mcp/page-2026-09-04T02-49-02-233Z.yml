@@ -1,0 +1,361 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]: Chào mừng bạn đến với Dolphin House
+      - generic [ref=f3e6]:  HOTLINE 086 6393 892
+      - generic [ref=f3e7]: "Thứ 2-CN : 8h-17h30"
+    - generic [ref=f3e9]:
+      - link [ref=f3e11] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn/
+        - img "Dolphin House" [ref=f3e13]
+      - search [ref=f3e15]:
+        - searchbox "Search for:" [ref=f3e16]
+        - button "Tìm kiếm" [ref=f3e17] [cursor=pointer]
+      - link " Giỏ hàng của bạn Chưa có sản phẩm" [ref=f3e20] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn/gio-hang/
+        - text: 
+        - generic [ref=f3e21]: Giỏ hàng của bạn
+        - text: Chưa có sản phẩm
+    - generic [ref=f3e23]:
+      - button "Mở hoặc đóng danh mục sản phẩm" [ref=f3e25] [cursor=pointer]:
+        - text: Danh mục sản phẩm
+        - generic [ref=f3e26]: 
+      - text: 
+      - navigation [ref=f3e27]:
+        - list [ref=f3e28]:
+          - listitem [ref=f3e29]:
+            - link "Trang chủ" [ref=f3e30] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/
+          - listitem [ref=f3e31]:
+            - link "Cửa hàng" [ref=f3e32] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/cua-hang/
+          - listitem [ref=f3e33]:
+            - text: 
+            - link "Danh mục sản phẩm" [ref=f3e34] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/cua-hang/
+          - listitem [ref=f3e35]:
+            - link "Góc Chuyên Gia" [ref=f3e36] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/tin-tuc/
+          - listitem [ref=f3e37]:
+            - link "Giới thiệu" [ref=f3e38] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/gioi-thieu/
+          - listitem [ref=f3e39]:
+            - link "Liên hệ" [ref=f3e40] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/lien-he/
+          - listitem [ref=f3e41]:
+            - link "Videos" [ref=f3e42] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/videos/
+  - main [ref=f3e47]:
+    - navigation "Breadcrumb" [ref=f3e48]:
+      - link "Trang chủ" [ref=f3e49] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn
+      - text: / Cửa hàng gia dụng thông minh
+    - heading "Cửa hàng gia dụng thông minh" [level=1] [ref=f3e50]
+    - paragraph [ref=f3e52]: Khám phá đồ gia dụng thông minh, thiết bị bếp, điện gia dụng và tiện ích nhà cửa được Dolphin House chọn lọc cho gia đình hiện đại.
+    - paragraph [ref=f3e53]: Hiển thị 1–16 của 117 sản phẩm
+    - combobox "Đơn hàng của cửa hàng" [ref=f3e55]:
+      - option "Sắp xếp mặc định" [selected]
+      - option "Sắp xếp theo mức độ phổ biến"
+      - option "Sắp xếp theo xếp hạng trung bình"
+      - option "Sắp xếp theo mới nhất"
+      - 'option "Sắp xếp theo giá: thấp đến cao"'
+      - 'option "Sắp xếp theo giá: cao đến thấp"'
+    - list [ref=f3e56]:
+      - listitem [ref=f3e57]:
+        - link [ref=f3e59] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-la-cay-philips-ste3160-30-cong-suat-2000w/
+          - img "Bàn là cây Philips STE3160/30 màu xanh đen" [ref=f3e61]
+        - link [ref=f3e62] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-la-cay-philips-ste3160-30-cong-suat-2000w/
+          - heading "Bàn là cây Philips STE3160/30 – Công suất 2000W" [level=2] [ref=f3e63]
+        - generic [ref=f3e64]: 2.750.000 ₫
+      - listitem [ref=f3e67]:
+        - link "Giảm giá! Bàn là mini du lịch Tefal Pure POP DT202 – ảnh sản phẩm 1" [ref=f3e69] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-la-mini-du-lich-tefal-pure-pop-dt202-nho-gon-ui-phang-diet-khuan-99-9/
+          - generic [ref=f3e70]: Giảm giá!
+          - img "Bàn là mini du lịch Tefal Pure POP DT202 – ảnh sản phẩm 1" [ref=f3e72]
+        - link [ref=f3e73] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-la-mini-du-lich-tefal-pure-pop-dt202-nho-gon-ui-phang-diet-khuan-99-9/
+          - heading "Bàn Là Hơi Nước Mini Tefal Pure Pop DT202 – 700g, Du Lịch" [level=2] [ref=f3e74]
+        - generic [ref=f3e75]:
+          - deletion [aria-hidden] [ref=f3e76]:
+            - generic [ref=f3e77]: 1.390.000 ₫
+          - generic [ref=f3e79]: "Giá gốc là: 1.390.000 ₫."
+          - insertion [aria-hidden] [ref=f3e80]:
+            - generic [ref=f3e81]: 1.050.000 ₫
+          - generic [ref=f3e83]: "Giá hiện tại là: 1.050.000 ₫."
+      - listitem [ref=f3e84]:
+        - link [ref=f3e86] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-la-philips-sth5030/
+          - img "Bàn là hơi nước cầm tay Philips Series 5000 STH5030 – ảnh sản phẩm 1" [ref=f3e88]
+        - link [ref=f3e89] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-la-philips-sth5030/
+          - heading "Bàn là hơi nước Philips Series 5000 STH5030" [level=2] [ref=f3e90]
+        - generic [ref=f3e91]: 1.650.000 ₫
+      - listitem [ref=f3e94]:
+        - link "Giảm giá! Bàn Ủi Hơi Nước Đứng Philips PerfectCare Elite Plus AIS8540/80 – Công Nghệ Chống Cháy OptimalTemp - Hình 1" [ref=f3e96] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-ui-hoi-nuoc-philips-perfectcare-elite-plus-ais8540/
+          - generic [ref=f3e97]: Giảm giá!
+          - img "Bàn Ủi Hơi Nước Đứng Philips PerfectCare Elite Plus AIS8540/80 – Công Nghệ Chống Cháy OptimalTemp - Hình 1" [ref=f3e98]
+        - link [ref=f3e99] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/ban-ui-hoi-nuoc-philips-perfectcare-elite-plus-ais8540/
+          - heading "Bàn Ủi Hơi Nước Đứng Philips PerfectCare Elite Plus AIS8540/80" [level=2] [ref=f3e100]
+        - generic [ref=f3e101]:
+          - deletion [aria-hidden] [ref=f3e102]:
+            - generic [ref=f3e103]: 8.900.000 ₫
+          - generic [ref=f3e105]: "Giá gốc là: 8.900.000 ₫."
+          - insertion [aria-hidden] [ref=f3e106]:
+            - generic [ref=f3e107]: 6.950.000 ₫
+          - generic [ref=f3e109]: "Giá hiện tại là: 6.950.000 ₫."
+      - listitem [ref=f3e110]:
+        - link [ref=f3e112] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bep-nuong-wmf-lono/
+          - img "Bếp nướng WMF LONO Master-Grill – ảnh sản phẩm 1" [ref=f3e114]
+        - link [ref=f3e115] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bep-nuong-wmf-lono/
+          - heading "Bếp nướng WMF LONO Master-Grill" [level=2] [ref=f3e116]
+        - generic [ref=f3e117]: 3.550.000 ₫
+      - listitem [ref=f3e120]:
+        - link "Giảm giá! Bếp Từ Đôi Lumias LK225 Plus – 3500W, 10 Mức Nhiệt – hình 1" [ref=f3e122] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bep-tu-doi-lumias-lk225-plus/
+          - generic [ref=f3e123]: Giảm giá!
+          - img "Bếp Từ Đôi Lumias LK225 Plus – 3500W, 10 Mức Nhiệt – hình 1" [ref=f3e124]
+        - link [ref=f3e125] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bep-tu-doi-lumias-lk225-plus/
+          - heading "Bếp Từ Đôi Lumias LK225 Plus – 3500W, 10 Mức Nhiệt" [level=2] [ref=f3e126]
+        - generic [ref=f3e127]:
+          - deletion [aria-hidden] [ref=f3e128]:
+            - generic [ref=f3e129]: 2.490.000 ₫
+          - generic [ref=f3e131]: "Giá gốc là: 2.490.000 ₫."
+          - insertion [aria-hidden] [ref=f3e132]:
+            - generic [ref=f3e133]: 1.790.000 ₫
+          - generic [ref=f3e135]: "Giá hiện tại là: 1.790.000 ₫."
+      - listitem [ref=f3e136]:
+        - link [ref=f3e138] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bep-tu-don-rommelsbacher-ct-2100-in/
+          - img "Bếp từ đơn Rommelsbacher CT 2100/IN – hình 1" [ref=f3e139]
+        - link [ref=f3e140] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bep-tu-don-rommelsbacher-ct-2100-in/
+          - heading "Bếp từ đơn Rommelsbacher CT 2100/IN 2100W" [level=2] [ref=f3e141]
+        - generic [ref=f3e142]: 1.950.000 ₫
+      - listitem [ref=f3e145]:
+        - link "Giảm giá! Bình đun siêu tốc Tefal KO140 1.5L - Hình 1" [ref=f3e147] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/binh-dun-sieu-toc-tefal-ko140-1-5l-an-toan-ben-dep/
+          - generic [ref=f3e148]: Giảm giá!
+          - img "Bình đun siêu tốc Tefal KO140 1.5L - Hình 1" [ref=f3e149]
+        - link [ref=f3e150] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/binh-dun-sieu-toc-tefal-ko140-1-5l-an-toan-ben-dep/
+          - heading "Bình Đun Siêu Tốc Tefal KO140 1.5L – An Toàn, Bền Đẹp" [level=2] [ref=f3e151]
+        - generic [ref=f3e152]:
+          - deletion [aria-hidden] [ref=f3e153]:
+            - generic [ref=f3e154]: 890.000 ₫
+          - generic [ref=f3e156]: "Giá gốc là: 890.000 ₫."
+          - insertion [aria-hidden] [ref=f3e157]:
+            - generic [ref=f3e158]: 780.000 ₫
+          - generic [ref=f3e160]: "Giá hiện tại là: 780.000 ₫."
+      - listitem [ref=f3e161]:
+        - link "Giảm giá! Bình Đựng Thức Ăn Giữ Nhiệt GUME GM-F11 - Hình 1" [ref=f3e163] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/binh-dung-thuc-an-giu-nhiet-gume-gm-f11/
+          - generic [ref=f3e164]: Giảm giá!
+          - img "Bình Đựng Thức Ăn Giữ Nhiệt GUME GM-F11 - Hình 1" [ref=f3e165]
+        - link [ref=f3e166] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/binh-dung-thuc-an-giu-nhiet-gume-gm-f11/
+          - heading "Bình Đựng Thức Ăn Giữ Nhiệt GUME GM-F11" [level=2] [ref=f3e167]
+        - generic [ref=f3e168]:
+          - deletion [aria-hidden] [ref=f3e169]:
+            - generic [ref=f3e170]: 450.000 ₫
+          - generic [ref=f3e172]: "Giá gốc là: 450.000 ₫."
+          - insertion [aria-hidden] [ref=f3e173]:
+            - generic [ref=f3e174]: 320.000 ₫
+          - generic [ref=f3e176]: "Giá hiện tại là: 320.000 ₫."
+      - listitem [ref=f3e177]:
+        - link "Giảm giá! Bộ 6 Cốc Pha Lê Bohemia Diamond 230ml Tiệp Khắc – Vân Kim Cương Khúc Xạ Ánh Sáng Sang Trọng - Hình 1" [ref=f3e179] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-6-coc-pha-le-bohemia-diamond-230ml/
+          - generic [ref=f3e180]: Giảm giá!
+          - img "Bộ 6 Cốc Pha Lê Bohemia Diamond 230ml Tiệp Khắc – Vân Kim Cương Khúc Xạ Ánh Sáng Sang Trọng - Hình 1" [ref=f3e181]
+        - link [ref=f3e182] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-6-coc-pha-le-bohemia-diamond-230ml/
+          - heading "Bộ 6 Cốc Pha Lê Bohemia Diamond 230ml – Tiệp Khắc" [level=2] [ref=f3e183]
+        - generic [ref=f3e184]:
+          - deletion [aria-hidden] [ref=f3e185]:
+            - generic [ref=f3e186]: 1.200.000 ₫
+          - generic [ref=f3e188]: "Giá gốc là: 1.200.000 ₫."
+          - insertion [aria-hidden] [ref=f3e189]:
+            - generic [ref=f3e190]: 890.000 ₫
+          - generic [ref=f3e192]: "Giá hiện tại là: 890.000 ₫."
+      - listitem [ref=f3e193]:
+        - link [ref=f3e195] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dao-la-cote-6-mon/
+          - img "Bộ dao LA CÔTE 6 món – hình 1" [ref=f3e196]
+        - link [ref=f3e197] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dao-la-cote-6-mon/
+          - heading "Bộ 6 dao LA CÔTE kèm đốc gỗ Pakka" [level=2] [ref=f3e198]
+        - generic [ref=f3e199]: 1.990.000 ₫
+      - listitem [ref=f3e202]:
+        - link "Giảm giá! Bộ Dao 4 Món Cao Cấp Gume Korea GMK-23 – Thép Không Gỉ Sắc Bén" [ref=f3e204] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dao-4-mon-gume-korea-gmk-23/
+          - generic [ref=f3e205]: Giảm giá!
+          - img "Bộ Dao 4 Món Cao Cấp Gume Korea GMK-23 – Thép Không Gỉ Sắc Bén" [ref=f3e206]
+        - link [ref=f3e207] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dao-4-mon-gume-korea-gmk-23/
+          - heading "Bộ Dao 4 Món Cao Cấp Gume Korea GMK-23 – Thép Không Gỉ Sắc Bén" [level=2] [ref=f3e208]
+        - generic [ref=f3e209]:
+          - deletion [aria-hidden] [ref=f3e210]:
+            - generic [ref=f3e211]: 790.000 ₫
+          - generic [ref=f3e213]: "Giá gốc là: 790.000 ₫."
+          - insertion [aria-hidden] [ref=f3e214]:
+            - generic [ref=f3e215]: 590.000 ₫
+          - generic [ref=f3e217]: "Giá hiện tại là: 590.000 ₫."
+      - listitem [ref=f3e218]:
+        - link "Giảm giá! Bộ Dao 6 Món GKÖCH Kèm Đốc Gỗ – Đẳng Cấp Chef Đức Tại Gia" [ref=f3e220] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dao-6-mon-gkoch-kem-doc-go/
+          - generic [ref=f3e221]: Giảm giá!
+          - img "Bộ Dao 6 Món GKÖCH Kèm Đốc Gỗ – Đẳng Cấp Chef Đức Tại Gia" [ref=f3e222]
+        - link [ref=f3e223] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dao-6-mon-gkoch-kem-doc-go/
+          - heading "Bộ Dao 6 Món GKÖCH Kèm Đốc Gỗ – Đẳng Cấp Chef Đức Tại Gia" [level=2] [ref=f3e224]
+        - generic [ref=f3e225]:
+          - deletion [aria-hidden] [ref=f3e226]:
+            - generic [ref=f3e227]: 3.450.000 ₫
+          - generic [ref=f3e229]: "Giá gốc là: 3.450.000 ₫."
+          - insertion [aria-hidden] [ref=f3e230]:
+            - generic [ref=f3e231]: 2.790.000 ₫
+          - generic [ref=f3e233]: "Giá hiện tại là: 2.790.000 ₫."
+      - listitem [ref=f3e234]:
+        - link "Giảm giá! Bộ Dụng Cụ Nhà Bếp 7 Món Joseph Joseph 101188 Kèm Giá Treo Xoay" [ref=f3e236] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dung-cu-nha-bep-7-mon-joseph-joseph-101188/
+          - generic [ref=f3e237]: Giảm giá!
+          - img "Bộ Dụng Cụ Nhà Bếp 7 Món Joseph Joseph 101188 Kèm Giá Treo Xoay" [ref=f3e238]
+        - link [ref=f3e239] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-dung-cu-nha-bep-7-mon-joseph-joseph-101188/
+          - heading "Bộ Dụng Cụ Nhà Bếp 7 Món Joseph Joseph 101188 Kèm Giá Treo Xoay" [level=2] [ref=f3e240]
+        - generic [ref=f3e241]:
+          - deletion [aria-hidden] [ref=f3e242]:
+            - generic [ref=f3e243]: 2.490.000 ₫
+          - generic [ref=f3e245]: "Giá gốc là: 2.490.000 ₫."
+          - insertion [aria-hidden] [ref=f3e246]:
+            - generic [ref=f3e247]: 1.999.000 ₫
+          - generic [ref=f3e249]: "Giá hiện tại là: 1.999.000 ₫."
+      - listitem [ref=f3e250]:
+        - link "Giảm giá! Bộ Nồi GKÖCH 4 Món – Đáy Từ, Chống Dính PTFE, Hàng Đức – hình 1" [ref=f3e252] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-noi-gkoch-4-mon-cao-cap-thuong-hieu-duc-day-tu-chong-dinh-ptfe/
+          - generic [ref=f3e253]: Giảm giá!
+          - img "Bộ Nồi GKÖCH 4 Món – Đáy Từ, Chống Dính PTFE, Hàng Đức – hình 1" [ref=f3e255]
+        - link [ref=f3e256] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-noi-gkoch-4-mon-cao-cap-thuong-hieu-duc-day-tu-chong-dinh-ptfe/
+          - heading "Bộ Nồi GKÖCH 4 Món – Đáy Từ, Chống Dính PTFE, Hàng Đức" [level=2] [ref=f3e257]
+        - generic [ref=f3e258]:
+          - deletion [aria-hidden] [ref=f3e259]:
+            - generic [ref=f3e260]: 1.800.000 ₫
+          - generic [ref=f3e262]: "Giá gốc là: 1.800.000 ₫."
+          - insertion [aria-hidden] [ref=f3e263]:
+            - generic [ref=f3e264]: 1.350.000 ₫
+          - generic [ref=f3e266]: "Giá hiện tại là: 1.350.000 ₫."
+      - listitem [ref=f3e267]:
+        - link "Giảm giá! Bộ nồi chống dính GKÖCH 4 món công nghệ Đức đáy từ tổ ong" [ref=f3e269] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-noi-nhom-duc-chong-dinh-gkoch-4-mon/
+          - generic [ref=f3e270]: Giảm giá!
+          - img "Bộ nồi chống dính GKÖCH 4 món công nghệ Đức đáy từ tổ ong" [ref=f3e271]
+        - link [ref=f3e272] [cursor=pointer]:
+          - /url: https://dolphinhouse.vn/san-pham/bo-noi-nhom-duc-chong-dinh-gkoch-4-mon/
+          - heading "Bộ Nồi Nhôm Đúc Chống Dính GKÖCH 4 Món Cao Cấp" [level=2] [ref=f3e273]
+        - generic [ref=f3e274]:
+          - deletion [aria-hidden] [ref=f3e275]:
+            - generic [ref=f3e276]: 2.690.000 ₫
+          - generic [ref=f3e278]: "Giá gốc là: 2.690.000 ₫."
+          - insertion [aria-hidden] [ref=f3e279]:
+            - generic [ref=f3e280]: 2.090.000 ₫
+          - generic [ref=f3e282]: "Giá hiện tại là: 2.090.000 ₫."
+    - navigation "Phân trang sản phẩm" [ref=f3e283]:
+      - list [ref=f3e284]:
+        - listitem [ref=f3e285]:
+          - generic "Trang 1" [ref=f3e286]: "1"
+        - listitem [ref=f3e287]:
+          - link "Trang 2" [ref=f3e288] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/2/
+            - text: "2"
+        - listitem [ref=f3e289]:
+          - link "Trang 3" [ref=f3e290] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/3/
+            - text: "3"
+        - listitem [ref=f3e291]:
+          - link "Trang 4" [ref=f3e292] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/4/
+            - text: "4"
+        - listitem [ref=f3e293]:
+          - generic [ref=f3e294]: …
+        - listitem [ref=f3e295]:
+          - link "Trang 6" [ref=f3e296] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/6/
+            - text: "6"
+        - listitem [ref=f3e297]:
+          - link "Trang 7" [ref=f3e298] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/7/
+            - text: "7"
+        - listitem [ref=f3e299]:
+          - link "Trang 8" [ref=f3e300] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/8/
+            - text: "8"
+        - listitem [ref=f3e301]:
+          - link "→" [ref=f3e302] [cursor=pointer]:
+            - /url: https://dolphinhouse.vn/cua-hang/page/2/
+  - contentinfo [ref=f3e303]:
+    - generic [ref=f3e304]:
+      - generic [ref=f3e305]:
+        - generic [ref=f3e306]:
+          - generic [ref=f3e307]:
+            - generic [ref=f3e308]: Thông tin liên hệ
+            - paragraph [ref=f3e310]: "Địa chỉ: S219 Đại Dương 8, Vinhomes Ocean Park, Gia Lâm, Hà Nội Hotline: 086 639 3892 Email: dolphinhouse.vn@gmail.com Tư vấn: Đồ gia dụng thông minh, điện gia dụng và tiện ích cao cấp cho gia đình hiện đại"
+          - generic [ref=f3e311]:
+            - generic [ref=f3e312]: Theo dõi Dolphin House
+            - generic:
+              - list:
+                - listitem [ref=f3e313]:
+                  - link "" [ref=f3e314] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f3e316]:
+                  - link "" [ref=f3e317] [cursor=pointer]:
+                    - /url: "#"
+        - generic [ref=f3e320]:
+          - generic [ref=f3e321]: Trợ giúp
+          - list [ref=f3e323]:
+            - listitem [ref=f3e324]:
+              - text: 
+              - link "Gia dụng thông minh cao cấp" [ref=f3e325] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/
+            - listitem [ref=f3e326]:
+              - text: 
+              - link "Tư vấn chọn mua" [ref=f3e327] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/tin-tuc/
+            - listitem [ref=f3e328]:
+              - text: 
+              - link "Về Dolphin House" [ref=f3e329] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/gioi-thieu/
+            - listitem [ref=f3e330]:
+              - text: 
+              - link "Hỗ trợ khách hàng" [ref=f3e331] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/ho-tro-khach-hang/
+            - listitem [ref=f3e332]:
+              - text: 
+              - link "Hình thức thanh toán" [ref=f3e333] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/hinh-thuc-thanh-toan/
+            - listitem [ref=f3e334]:
+              - text: 
+              - link "Chính sách vận chuyển" [ref=f3e335] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/hinh-thuc-van-chuyen/
+        - paragraph [ref=f3e339]:
+          - strong [ref=f3e340]: Dolphin House
+          - text: "- sản phẩm chọn lọc, tư vấn rõ ràng, giao diện gọn nhẹ."
+        - generic [ref=f3e342]:
+          - generic [ref=f3e343]: Bản đồ
+          - button "Tải bản đồ chỉ đường tới Dolphin House" [ref=f3e347] [cursor=pointer]:
+            - generic [ref=f3e348]: Xem bản đồ
+            - generic [ref=f3e349]: Chỉ tải Google Maps khi bạn bấm
+      - text:       
+      - generic [ref=f3e350]: Copyright © 2026 dolphinhouse.vn - All Rights Reserved.
+  - text: 
+  - link [ref=f3e353] [cursor=pointer]:
+    - /url: https://zalo.me/0866393892
+    - img "Contact Me on Zalo" [ref=f3e357]
+  - text: 
+  - status [ref=f3e358]

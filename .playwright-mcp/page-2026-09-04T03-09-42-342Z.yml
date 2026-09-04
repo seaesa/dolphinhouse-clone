@@ -1,0 +1,161 @@
+- generic [active] [ref=f24e1]:
+  - generic [ref=f24e2]:
+    - generic [ref=f24e4]:
+      - generic [ref=f24e5]: Chào mừng bạn đến với Dolphin House
+      - generic [ref=f24e6]: ☎ HOTLINE 086 6393 892
+      - generic [ref=f24e7]: "Thứ 2-CN : 8h-17h30"
+    - banner [ref=f24e8]:
+      - generic [ref=f24e9]:
+        - link [ref=f24e10] [cursor=pointer]:
+          - /url: index.html
+          - img "Dolphin House" [ref=f24e11]
+        - generic [ref=f24e12]:
+          - searchbox "Tìm kiếm sản phẩm" [ref=f24e13]
+          - button "Tìm kiếm" [ref=f24e14] [cursor=pointer]
+        - link "🛒 0 Giỏ hàng của bạn Chưa có sản phẩm" [ref=f24e15] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f24e16]:
+            - text: 🛒
+            - generic [ref=f24e17]: "0"
+          - generic [ref=f24e18]:
+            - strong [ref=f24e19]: Giỏ hàng của bạn
+            - text: Chưa có sản phẩm
+    - navigation [ref=f24e20]:
+      - generic [ref=f24e21]:
+        - button "☰ Danh mục sản phẩm" [ref=f24e22] [cursor=pointer]
+        - list [ref=f24e23]:
+          - listitem [ref=f24e24]:
+            - link "Trang chủ" [ref=f24e25] [cursor=pointer]:
+              - /url: index.html
+          - listitem [ref=f24e26]:
+            - link "Cửa hàng" [ref=f24e27] [cursor=pointer]:
+              - /url: cua-hang.html
+          - listitem [ref=f24e28]:
+            - link "Danh mục sản phẩm" [ref=f24e29] [cursor=pointer]:
+              - /url: cua-hang.html
+          - listitem [ref=f24e30]:
+            - link "Góc Chuyên Gia" [ref=f24e31] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f24e32]:
+            - link "Giới thiệu" [ref=f24e33] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f24e34]:
+            - link "Liên hệ" [ref=f24e35] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f24e36]:
+            - link "Videos" [ref=f24e37] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=f24e38]:
+    - navigation [ref=f24e39]:
+      - link "Trang chủ" [ref=f24e40] [cursor=pointer]:
+        - /url: index.html
+      - text: / Cửa hàng gia dụng thông minh
+    - generic [ref=f24e41]:
+      - heading "Cửa hàng gia dụng thông minh" [level=1] [ref=f24e42]
+      - paragraph [ref=f24e43]: Khám phá đồ gia dụng thông minh, thiết bị bếp, điện gia dụng và tiện ích nhà cửa được Dolphin House chọn lọc cho gia đình hiện đại.
+    - generic [ref=f24e44]:
+      - link "Bếp thông minh & dụng cụ nấu ăn" [ref=f24e45] [cursor=pointer]:
+        - /url: danh-muc.html?slug=do-dung-nha-bep
+      - link "Chăm sóc gia đình & phòng ngủ" [ref=f24e46] [cursor=pointer]:
+        - /url: danh-muc.html?slug=chan-ga-goi-dem
+      - link "Điện gia dụng" [ref=f24e47] [cursor=pointer]:
+        - /url: danh-muc.html?slug=dien-gia-dung
+      - link "Ghế ô tô trẻ em" [ref=f24e48] [cursor=pointer]:
+        - /url: danh-muc.html?slug=ghe-o-to-tre-em
+      - link "Gia dụng châu Âu" [ref=f24e49] [cursor=pointer]:
+        - /url: danh-muc.html?slug=gia-dung-chau-au
+      - link "Gia dụng tiện ích" [ref=f24e50] [cursor=pointer]:
+        - /url: danh-muc.html?slug=gia-dung-tien-ich
+      - link "Không gian sống & decor tiện ích" [ref=f24e51] [cursor=pointer]:
+        - /url: danh-muc.html?slug=san-pham-deco
+      - link "Thiết bị gia dụng thông minh" [ref=f24e52] [cursor=pointer]:
+        - /url: danh-muc.html?slug=san-pham-thong-minh
+    - generic [ref=f24e53]:
+      - paragraph [ref=f24e54]: Kết quả tìm kiếm cho “nồi cơm” — 4 sản phẩm
+      - combobox [ref=f24e55]:
+        - option "Sắp xếp mặc định" [selected]
+        - option "Sắp xếp theo mới nhất"
+        - 'option "Sắp xếp theo giá: thấp đến cao"'
+        - 'option "Sắp xếp theo giá: cao đến thấp"'
+    - generic [ref=f24e56]:
+      - generic [ref=f24e57]:
+        - link [ref=f24e58] [cursor=pointer]:
+          - /url: san-pham.html?slug=noi-com-dien-cao-tan-ap-suat-cuckoo-crp-hwf1000f-18l
+          - img "Nồi cơm điện cao tần áp suất Cuckoo CRP-HWF1000F – 1,8L" [ref=f24e59]
+        - heading [level=3] [ref=f24e60]:
+          - link "Nồi cơm điện cao tần áp suất Cuckoo CRP-HWF1000F – 1,8L" [ref=f24e61] [cursor=pointer]:
+            - /url: san-pham.html?slug=noi-com-dien-cao-tan-ap-suat-cuckoo-crp-hwf1000f-18l
+        - generic [ref=f24e62]: 5.150.000 ₫
+      - generic [ref=f24e63]:
+        - generic [ref=f24e64]: Giảm giá!
+        - link [ref=f24e65] [cursor=pointer]:
+          - /url: san-pham.html?slug=noi-com-ap-suat-habibullet-phb-8386-2-long-noi
+          - img "Nồi Cơm Áp Suất Habibullet PHB-8386 – 2 Lòng Nồi Nấu Cơm Hầm Súp" [ref=f24e66]
+        - heading [level=3] [ref=f24e67]:
+          - link "Nồi Cơm Áp Suất Habibullet PHB-8386 – 2 Lòng Nồi Nấu Cơm Hầm Súp" [ref=f24e68] [cursor=pointer]:
+            - /url: san-pham.html?slug=noi-com-ap-suat-habibullet-phb-8386-2-long-noi
+        - generic [ref=f24e69]: 3.290.000 ₫2.590.000 ₫
+      - generic [ref=f24e70]:
+        - generic [ref=f24e71]: Giảm giá!
+        - link [ref=f24e72] [cursor=pointer]:
+          - /url: san-pham.html?slug=noi-com-co-cuckoo-cr-1095whvncv-1-8l
+          - img "Nồi Cơm Điện Cơ Cuckoo CR-1095/WHVNCV 1.8L – Men Daikin Công Nghệ Nhiệt 3D" [ref=f24e73]
+        - heading [level=3] [ref=f24e74]:
+          - link "Nồi Cơm Điện Cơ Cuckoo CR-1095/WHVNCV 1.8L – Men Daikin Công Nghệ Nhiệt 3D" [ref=f24e75] [cursor=pointer]:
+            - /url: san-pham.html?slug=noi-com-co-cuckoo-cr-1095whvncv-1-8l
+        - generic [ref=f24e76]: 1.650.000 ₫1.250.000 ₫
+      - generic [ref=f24e77]:
+        - generic [ref=f24e78]: Giảm giá!
+        - link [ref=f24e79] [cursor=pointer]:
+          - /url: san-pham.html?slug=noi-com-cao-tan-cuckoo-crp-nhtr0610-1-08l
+          - img "Nồi Cơm Cao Tần Cuckoo CRP-NHTR0610 1.08L – IH Áp Suất" [ref=f24e80]
+        - heading [level=3] [ref=f24e81]:
+          - link "Nồi Cơm Cao Tần Cuckoo CRP-NHTR0610 1.08L – IH Áp Suất" [ref=f24e82] [cursor=pointer]:
+            - /url: san-pham.html?slug=noi-com-cao-tan-cuckoo-crp-nhtr0610-1-08l
+        - generic [ref=f24e83]: 12.900.000 ₫9.200.000 ₫
+    - navigation [ref=f24e84]
+  - generic [ref=f24e85]:
+    - contentinfo [ref=f24e86]:
+      - generic [ref=f24e88]:
+        - generic [ref=f24e89]:
+          - heading "Thông tin liên hệ" [level=5] [ref=f24e90]
+          - paragraph [ref=f24e91]: "Địa chỉ: S219 Đại Dương 8, Vinhomes Ocean Park, Gia Lâm, Hà Nội Hotline: 086 639 3892 Email: dolphinhouse.vn@gmail.com Tư vấn: Đồ gia dụng thông minh, điện gia dụng và tiện ích cao cấp cho gia đình hiện đại"
+          - generic [ref=f24e92]:
+            - link "Facebook" [ref=f24e93] [cursor=pointer]:
+              - /url: "#"
+              - text: f
+            - link "YouTube" [ref=f24e94] [cursor=pointer]:
+              - /url: "#"
+              - text: ▶
+        - generic [ref=f24e95]:
+          - heading "Trợ giúp" [level=5] [ref=f24e96]
+          - list [ref=f24e97]:
+            - listitem [ref=f24e98]:
+              - link "› Gia dụng thông minh cao cấp" [ref=f24e99] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=f24e100]:
+              - link "› Tư vấn chọn mua" [ref=f24e101] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f24e102]:
+              - link "› Về Dolphin House" [ref=f24e103] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f24e104]:
+              - link "› Hỗ trợ khách hàng" [ref=f24e105] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f24e106]:
+              - link "› Hình thức thanh toán" [ref=f24e107] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f24e108]:
+              - link "› Chính sách vận chuyển" [ref=f24e109] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f24e110]:
+          - heading "Dolphin House" [level=5] [ref=f24e111]
+          - paragraph [ref=f24e112]: "- sản phẩm chọn lọc, tư vấn rõ ràng, giao diện gọn nhẹ."
+        - generic [ref=f24e113]:
+          - heading "Bản đồ" [level=5] [ref=f24e114]
+          - img "Bản đồ Dolphin House" [ref=f24e115]
+          - button "Xem bản đồ" [ref=f24e116] [cursor=pointer]
+      - generic [ref=f24e117]: Copyright © 2026 dolphinhouse.vn - All Rights Reserved.
+    - link "Chat Zalo" [ref=f24e118] [cursor=pointer]:
+      - /url: https://zalo.me/0866393892
+      - text: Z

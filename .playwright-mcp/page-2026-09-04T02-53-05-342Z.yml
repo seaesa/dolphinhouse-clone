@@ -1,0 +1,492 @@
+- generic [active] [ref=f7e1]:
+  - banner [ref=f7e2]:
+    - generic [ref=f7e4]:
+      - text: 
+      - generic [ref=f7e5]: "Thứ 2-CN : 8h-17h30"
+    - generic [ref=f7e7]:
+      - link [ref=f7e9] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn/
+        - img "Dolphin House" [ref=f7e11]
+      - search [ref=f7e13]:
+        - searchbox "Search for:" [ref=f7e14]
+        - button "Tìm kiếm" [ref=f7e15] [cursor=pointer]
+      - link " Giỏ hàng của bạn Chưa có sản phẩm 0" [ref=f7e18] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn/gio-hang/
+        - text: 
+        - generic: Giỏ hàng của bạn
+        - text: Chưa có sản phẩm
+        - generic [ref=f7e19]: "0"
+    - generic [ref=f7e21]:
+      - button "Mở hoặc đóng danh mục sản phẩm" [ref=f7e23] [cursor=pointer]: ☰ Danh mục sản phẩm 
+      - text: 
+  - main [ref=f7e24]:
+    - region [ref=f7e25]:
+      - generic [ref=f7e26]:
+        - region [ref=f7e27]:
+          - generic [ref=f7e28]:
+            - paragraph [ref=f7e29]: Dolphin House · Chọn lọc cho tổ ấm
+            - heading "Nhà gọn hơn, mỗi ngày nhẹ hơn" [level=1] [ref=f7e30]
+            - paragraph [ref=f7e31]: Từ căn bếp đến góc phòng khách, Dolphin House chọn những món gia dụng thật sự hữu ích để bạn bớt loay hoay với việc nhà và có thêm thời gian cho những điều đáng yêu.
+            - generic [ref=f7e32]:
+              - link "Khám phá sản phẩm" [ref=f7e33] [cursor=pointer]:
+                - /url: /cua-hang/
+              - link "Xem cẩm nang" [ref=f7e34] [cursor=pointer]:
+                - /url: /tin-tuc/
+            - list [ref=f7e35]:
+              - listitem [ref=f7e36]: ✓ Thông tin rõ ràng
+              - listitem [ref=f7e37]: ✓ Chọn theo nhu cầu
+              - listitem [ref=f7e38]: ✓ Tư vấn dễ hiểu
+          - complementary [ref=f7e39]:
+            - img "Không gian sống gọn gàng với thiết bị gia dụng thông minh Dolphin House" [ref=f7e40]
+            - generic [ref=f7e41]: Góc chọn đồ của Dolphin House
+            - strong [ref=f7e42]: Mua ít hơn, nhưng chọn đúng hơn.
+            - paragraph [ref=f7e43]: Mỗi sản phẩm nên giải quyết một việc cụ thể và đem lại cảm giác nhẹ nhõm sau khi dùng.
+            - list [ref=f7e44]:
+              - listitem [ref=f7e45]:
+                - generic [ref=f7e46]: "01"
+                - generic [ref=f7e47]: Cho căn bếp gọn và dễ dùng
+              - listitem [ref=f7e48]:
+                - generic [ref=f7e49]: "02"
+                - generic [ref=f7e50]: Cho việc nhà bớt tốn sức
+              - listitem [ref=f7e51]:
+                - generic [ref=f7e52]: "03"
+                - generic [ref=f7e53]: Cho không gian sống dễ chịu
+        - region "Lý do chọn Dolphin House" [ref=f7e54]:
+          - generic [ref=f7e55]:
+            - generic [ref=f7e56]: Chọn lọc có lý do
+            - generic [ref=f7e57]: Ưu tiên sản phẩm hữu ích, dùng được lâu.
+          - generic [ref=f7e58]:
+            - generic [ref=f7e59]: Mô tả dễ hiểu
+            - generic [ref=f7e60]: Nói rõ công dụng, thông số và điểm cần lưu ý.
+          - generic [ref=f7e61]:
+            - generic [ref=f7e62]: Gợi ý theo nhu cầu
+            - generic [ref=f7e63]: Không cần biết kỹ thuật vẫn chọn được món phù hợp.
+          - generic [ref=f7e64]:
+            - generic [ref=f7e65]: Đồng hành sau mua
+            - generic [ref=f7e66]: Cần hỏi cách dùng, cứ liên hệ Dolphin House.
+        - generic [ref=f7e67]:
+          - generic [ref=f7e68]:
+            - generic [ref=f7e69]:
+              - generic [ref=f7e70]:
+                - heading "Danh mục sản phẩm" [level=2] [ref=f7e71]
+                - paragraph [ref=f7e72]: Chọn đúng nhóm để tìm nhanh món đồ phù hợp với căn nhà của bạn.
+              - link "Xem tất cả →" [ref=f7e73] [cursor=pointer]:
+                - /url: /cua-hang/
+            - generic [ref=f7e74]:
+              - link "Góc bếp gọn gàng với giá đựng bát đĩa Bếp thông minh & dụng cụ nấu ăn Nồi chảo và trợ thủ cho bữa cơm Khám phá →" [ref=f7e75] [cursor=pointer]:
+                - /url: /danh-muc/do-dung-nha-bep/
+                - img "Góc bếp gọn gàng với giá đựng bát đĩa" [ref=f7e76]
+                - generic [ref=f7e77]:
+                  - strong [ref=f7e78]: Bếp thông minh & dụng cụ nấu ăn
+                  - generic [ref=f7e79]: Nồi chảo và trợ thủ cho bữa cơm
+                  - emphasis [ref=f7e80]: Khám phá →
+              - link "Tủ sấy quần áo trong phòng giặt Chăm sóc gia đình & phòng ngủ Giặt giũ, sấy khô, chăm nhà Khám phá →" [ref=f7e81] [cursor=pointer]:
+                - /url: /danh-muc/chan-ga-goi-dem/
+                - img "Tủ sấy quần áo trong phòng giặt" [ref=f7e82]
+                - generic [ref=f7e83]:
+                  - strong [ref=f7e84]: Chăm sóc gia đình & phòng ngủ
+                  - generic [ref=f7e85]: Giặt giũ, sấy khô, chăm nhà
+                  - emphasis [ref=f7e86]: Khám phá →
+              - link "Bàn là cây Philips trong góc chăm quần áo Điện gia dụng Thiết bị giúp việc nhà nhẹ hơn Khám phá →" [ref=f7e87] [cursor=pointer]:
+                - /url: /danh-muc/dien-gia-dung/
+                - img "Bàn là cây Philips trong góc chăm quần áo" [ref=f7e88]
+                - generic [ref=f7e89]:
+                  - strong [ref=f7e90]: Điện gia dụng
+                  - generic [ref=f7e91]: Thiết bị giúp việc nhà nhẹ hơn
+                  - emphasis [ref=f7e92]: Khám phá →
+              - link "Máy hút ẩm trong không gian gia đình Gia dụng tiện ích Sắp xếp và vệ sinh nhà cửa Khám phá →" [ref=f7e93] [cursor=pointer]:
+                - /url: /danh-muc/gia-dung-tien-ich/
+                - img "Máy hút ẩm trong không gian gia đình" [ref=f7e94]
+                - generic [ref=f7e95]:
+                  - strong [ref=f7e96]: Gia dụng tiện ích
+                  - generic [ref=f7e97]: Sắp xếp và vệ sinh nhà cửa
+                  - emphasis [ref=f7e98]: Khám phá →
+              - link "Robot lọc không khí trong phòng khách Thiết bị gia dụng thông minh Chăm không gian sống chủ động hơn Khám phá →" [ref=f7e99] [cursor=pointer]:
+                - /url: /danh-muc/san-pham-thong-minh/
+                - img "Robot lọc không khí trong phòng khách" [ref=f7e100]
+                - generic [ref=f7e101]:
+                  - strong [ref=f7e102]: Thiết bị gia dụng thông minh
+                  - generic [ref=f7e103]: Chăm không gian sống chủ động hơn
+                  - emphasis [ref=f7e104]: Khám phá →
+              - link "Đồ decor pha lê trên bàn tiệc gia đình Không gian sống & decor tiện ích Những điểm nhấn cho tổ ấm Khám phá →" [ref=f7e105] [cursor=pointer]:
+                - /url: /danh-muc/san-pham-deco/
+                - img "Đồ decor pha lê trên bàn tiệc gia đình" [ref=f7e106]
+                - generic [ref=f7e107]:
+                  - strong [ref=f7e108]: Không gian sống & decor tiện ích
+                  - generic [ref=f7e109]: Những điểm nhấn cho tổ ấm
+                  - emphasis [ref=f7e110]: Khám phá →
+              - link "Máy pha cà phê Bosch trên bàn bếp Gia dụng châu Âu Thiết kế đẹp, dùng lâu dài Khám phá →" [ref=f7e111] [cursor=pointer]:
+                - /url: /danh-muc/gia-dung-chau-au/
+                - img "Máy pha cà phê Bosch trên bàn bếp" [ref=f7e112]
+                - generic [ref=f7e113]:
+                  - strong [ref=f7e114]: Gia dụng châu Âu
+                  - generic [ref=f7e115]: Thiết kế đẹp, dùng lâu dài
+                  - emphasis [ref=f7e116]: Khám phá →
+              - link "Không gian gia đình an toàn, tiện nghi Ghế ô tô trẻ em Danh mục đang được bổ sung Khám phá →" [ref=f7e117] [cursor=pointer]:
+                - /url: /danh-muc/ghe-o-to-tre-em/
+                - img "Không gian gia đình an toàn, tiện nghi" [ref=f7e118]
+                - generic [ref=f7e119]:
+                  - strong [ref=f7e120]: Ghế ô tô trẻ em
+                  - generic [ref=f7e121]: Danh mục đang được bổ sung
+                  - emphasis [ref=f7e122]: Khám phá →
+            - generic [ref=f7e123]:
+              - generic [ref=f7e124]: "Khám phá nhanh:"
+              - link "Nồi chảo cao cấp" [ref=f7e125] [cursor=pointer]:
+                - /url: /danh-muc/do-dung-nha-bep/chao/
+              - link "Nồi & xửng hấp" [ref=f7e126] [cursor=pointer]:
+                - /url: /danh-muc/do-dung-nha-bep/xong-noi/
+              - link "Vệ sinh nhà cửa thông minh" [ref=f7e127] [cursor=pointer]:
+                - /url: /danh-muc/gia-dung-tien-ich/ve-sinh-nha-cua/
+          - generic [ref=f7e128]:
+            - generic [ref=f7e129]:
+              - generic [ref=f7e130]:
+                - generic [ref=f7e131]:
+                  - heading "Bếp thông minh & dụng cụ nấu ăn" [level=2] [ref=f7e132]
+                  - paragraph [ref=f7e133]: Nồi chảo và những trợ thủ cho bữa cơm gia đình.
+                - link "Xem danh mục →" [ref=f7e134] [cursor=pointer]:
+                  - /url: /danh-muc/do-dung-nha-bep/
+              - generic [ref=f7e135]:
+                - link "Set đũa inox 316 Chockmen Bếp thông minh & dụng cụ nấu ăn Set 5 Đôi Đũa Inox 316 Chockmen CKM JYCS5P – Chống Trơn Không Mốc 260.000 đ 190.000 đ" [ref=f7e136] [cursor=pointer]:
+                  - /url: /san-pham/set-5-doi-dua-inox-316-chockmen-ckm-jycs5p/
+                  - img "Set đũa inox 316 Chockmen" [ref=f7e137]
+                  - generic [ref=f7e138]:
+                    - generic [ref=f7e139]: Bếp thông minh & dụng cụ nấu ăn
+                    - strong [ref=f7e140]: Set 5 Đôi Đũa Inox 316 Chockmen CKM JYCS5P – Chống Trơn Không Mốc
+                    - generic [ref=f7e141]:
+                      - deletion [ref=f7e142]: 260.000 đ
+                      - text: 190.000 đ
+                - link "Set đũa Nhật Shikisai hoa anh đào Bếp thông minh & dụng cụ nấu ăn Set 5 Đôi Đũa Nhật Kháng Khuẩn Shikisai Hoa Anh Đào 190.000 đ 140.000 đ" [ref=f7e143] [cursor=pointer]:
+                  - /url: /san-pham/set-5-doi-dua-nhat-khang-khuan-shikisai/
+                  - img "Set đũa Nhật Shikisai hoa anh đào" [ref=f7e144]
+                  - generic [ref=f7e145]:
+                    - generic [ref=f7e146]: Bếp thông minh & dụng cụ nấu ăn
+                    - strong [ref=f7e147]: Set 5 Đôi Đũa Nhật Kháng Khuẩn Shikisai Hoa Anh Đào
+                    - generic [ref=f7e148]:
+                      - deletion [ref=f7e149]: 190.000 đ
+                      - text: 140.000 đ
+                - link "Set 3 thớt kháng khuẩn Joseph Joseph Bếp thông minh & dụng cụ nấu ăn Set 3 Thớt Kháng Khuẩn Joseph Joseph 60146 Kèm Hộp Đứng 1.890.000 đ 1.490.000 đ" [ref=f7e150] [cursor=pointer]:
+                  - /url: /san-pham/set-3-thot-khang-khuan-joseph-joseph-60146/
+                  - img "Set 3 thớt kháng khuẩn Joseph Joseph" [ref=f7e151]
+                  - generic [ref=f7e152]:
+                    - generic [ref=f7e153]: Bếp thông minh & dụng cụ nấu ăn
+                    - strong [ref=f7e154]: Set 3 Thớt Kháng Khuẩn Joseph Joseph 60146 Kèm Hộp Đứng
+                    - generic [ref=f7e155]:
+                      - deletion [ref=f7e156]: 1.890.000 đ
+                      - text: 1.490.000 đ
+                - link "Kéo nhà bếp đa năng WMF Bếp thông minh & dụng cụ nấu ăn Kéo Nhà Bếp Đa Năng WMF – Thép Cromargan Không Gỉ 550.000 đ 399.000 đ" [ref=f7e157] [cursor=pointer]:
+                  - /url: /san-pham/keo-nha-bep-da-nang-wmf/
+                  - img "Kéo nhà bếp đa năng WMF" [ref=f7e158]
+                  - generic [ref=f7e159]:
+                    - generic [ref=f7e160]: Bếp thông minh & dụng cụ nấu ăn
+                    - strong [ref=f7e161]: Kéo Nhà Bếp Đa Năng WMF – Thép Cromargan Không Gỉ
+                    - generic [ref=f7e162]:
+                      - deletion [ref=f7e163]: 550.000 đ
+                      - text: 399.000 đ
+            - generic [ref=f7e164]:
+              - generic [ref=f7e165]:
+                - generic [ref=f7e166]:
+                  - heading "Điện gia dụng" [level=2] [ref=f7e167]
+                  - paragraph [ref=f7e168]: Thiết bị giúp những việc lặp lại mỗi ngày nhẹ nhàng hơn.
+                - link "Xem danh mục →" [ref=f7e169] [cursor=pointer]:
+                  - /url: /danh-muc/dien-gia-dung/
+              - generic [ref=f7e170]:
+                - link "Nồi cơm điện Cuckoo CRP-HWF1000F Điện gia dụng Nồi cơm điện cao tần áp suất Cuckoo CRP-HWF1000F – 1,8L 5.150.000 đ" [ref=f7e171] [cursor=pointer]:
+                  - /url: /san-pham/noi-com-dien-cao-tan-ap-suat-cuckoo-crp-hwf1000f-18l/
+                  - img "Nồi cơm điện Cuckoo CRP-HWF1000F" [ref=f7e172]
+                  - generic [ref=f7e173]:
+                    - generic [ref=f7e174]: Điện gia dụng
+                    - strong [ref=f7e175]: Nồi cơm điện cao tần áp suất Cuckoo CRP-HWF1000F – 1,8L
+                    - generic [ref=f7e176]: 5.150.000 đ
+                - link "Máy vắt cam CASO CP 330 PRO Điện gia dụng Máy vắt cam CASO CP 330 PRO – Công suất 160W 1.850.000 đ" [ref=f7e177] [cursor=pointer]:
+                  - /url: /san-pham/may-vat-cam-caso-cp-330-pro-cong-suat-160w/
+                  - img "Máy vắt cam CASO CP 330 PRO" [ref=f7e178]
+                  - generic [ref=f7e179]:
+                    - generic [ref=f7e180]: Điện gia dụng
+                    - strong [ref=f7e181]: Máy vắt cam CASO CP 330 PRO – Công suất 160W
+                    - generic [ref=f7e182]: 1.850.000 đ
+                - link "Máy lọc không khí LG ALPHA PET Điện gia dụng Máy lọc không khí LG ALPHA PET – Lọc bụi và mùi thú cưng 22.200.000 đ" [ref=f7e183] [cursor=pointer]:
+                  - /url: /san-pham/may-loc-khong-khi-lg-alpha-pet-2-tang-as10gdby0-loc-bui-va-mui-thu-cung/
+                  - img "Máy lọc không khí LG ALPHA PET" [ref=f7e184]
+                  - generic [ref=f7e185]:
+                    - generic [ref=f7e186]: Điện gia dụng
+                    - strong [ref=f7e187]: Máy lọc không khí LG ALPHA PET – Lọc bụi và mùi thú cưng
+                    - generic [ref=f7e188]: 22.200.000 đ
+                - link "Máy hút ẩm Lumias D6S-30L Điện gia dụng Máy hút ẩm Lumias D6S-30L – Hút ẩm 30L mỗi ngày 5.990.000 đ" [ref=f7e189] [cursor=pointer]:
+                  - /url: /san-pham/may-hut-am-lumias-d6s-30l-hut-am-30l-moi-ngay/
+                  - img "Máy hút ẩm Lumias D6S-30L" [ref=f7e190]
+                  - generic [ref=f7e191]:
+                    - generic [ref=f7e192]: Điện gia dụng
+                    - strong [ref=f7e193]: Máy hút ẩm Lumias D6S-30L – Hút ẩm 30L mỗi ngày
+                    - generic [ref=f7e194]: 5.990.000 đ
+            - generic [ref=f7e195]:
+              - generic [ref=f7e196]:
+                - generic [ref=f7e197]:
+                  - heading "Chăm sóc gia đình & phòng ngủ" [level=2] [ref=f7e198]
+                  - paragraph [ref=f7e199]: Giặt giũ, sấy khô và chăm chút không gian nghỉ ngơi.
+                - link "Xem danh mục →" [ref=f7e200] [cursor=pointer]:
+                  - /url: /danh-muc/chan-ga-goi-dem/
+              - generic [ref=f7e201]:
+                - link "Tủ sấy quần áo GUME GM-8222 Chăm sóc gia đình & phòng ngủ Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng 1.180.000 đ" [ref=f7e202] [cursor=pointer]:
+                  - /url: /san-pham/tu-say-gume-gm-8222-say-kho-quan-ao-gon-gang/
+                  - img "Tủ sấy quần áo GUME GM-8222" [ref=f7e203]
+                  - generic [ref=f7e204]:
+                    - generic [ref=f7e205]: Chăm sóc gia đình & phòng ngủ
+                    - strong [ref=f7e206]: Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng
+                    - generic [ref=f7e207]: 1.180.000 đ
+                - link "Máy bắt muỗi sinh học GKÖCH Chăm sóc gia đình & phòng ngủ Máy Bắt Muỗi Sinh Học GKÖCH YG-M006 – Tia UV 360° 490.000 đ 350.000 đ" [ref=f7e208] [cursor=pointer]:
+                  - /url: /san-pham/may-bat-muoi-sinh-hoc-gkoch-yg-m006/
+                  - img "Máy bắt muỗi sinh học GKÖCH" [ref=f7e209]
+                  - generic [ref=f7e210]:
+                    - generic [ref=f7e211]: Chăm sóc gia đình & phòng ngủ
+                    - strong [ref=f7e212]: Máy Bắt Muỗi Sinh Học GKÖCH YG-M006 – Tia UV 360°
+                    - generic [ref=f7e213]:
+                      - deletion [ref=f7e214]: 490.000 đ
+                      - text: 350.000 đ
+                - link "Chiếu mây ngải cứu Nicolas Chăm sóc gia đình & phòng ngủ Chiếu Mây Ngải Cứu Nicolas – Đế 5D Chống Trượt 270.000 đ" [ref=f7e215] [cursor=pointer]:
+                  - /url: /san-pham/chieu-may-ngai-cuu-nicolas-sieu-cap/
+                  - img "Chiếu mây ngải cứu Nicolas" [ref=f7e216]
+                  - generic [ref=f7e217]:
+                    - generic [ref=f7e218]: Chăm sóc gia đình & phòng ngủ
+                    - strong [ref=f7e219]: Chiếu Mây Ngải Cứu Nicolas – Đế 5D Chống Trượt
+                    - generic [ref=f7e220]: 270.000 đ
+                - link "Gối lông vũ Moncler Chăm sóc gia đình & phòng ngủ Gối Lông Vũ Moncler 48x74cm – Bộ 2 Chiếc 890.000 đ 650.000 đ" [ref=f7e221] [cursor=pointer]:
+                  - /url: /san-pham/goi-moncler-am-ap-em-mem-sang-trong-chuan-au-bo-2-chiec/
+                  - img "Gối lông vũ Moncler" [ref=f7e222]
+                  - generic [ref=f7e223]:
+                    - generic [ref=f7e224]: Chăm sóc gia đình & phòng ngủ
+                    - strong [ref=f7e225]: Gối Lông Vũ Moncler 48x74cm – Bộ 2 Chiếc
+                    - generic [ref=f7e226]:
+                      - deletion [ref=f7e227]: 890.000 đ
+                      - text: 650.000 đ
+            - generic [ref=f7e228]:
+              - generic [ref=f7e229]:
+                - generic [ref=f7e230]:
+                  - heading "Gia dụng tiện ích" [level=2] [ref=f7e231]
+                  - paragraph [ref=f7e232]: Sắp xếp, vệ sinh và chăm sóc ngôi nhà mỗi ngày.
+                - link "Xem danh mục →" [ref=f7e233] [cursor=pointer]:
+                  - /url: /danh-muc/gia-dung-tien-ich/
+              - generic [ref=f7e234]:
+                - link "Giá đựng bát đĩa Joseph Joseph Gia dụng tiện ích Giá đựng bát đĩa Joseph Joseph 851690 – Mở rộng không gian bếp 2.290.000 đ" [ref=f7e235] [cursor=pointer]:
+                  - /url: /san-pham/gia-dung-bat-dia-joseph-joseph-851690-mo-rong-khong-gian-bep/
+                  - img "Giá đựng bát đĩa Joseph Joseph" [ref=f7e236]
+                  - generic [ref=f7e237]:
+                    - generic [ref=f7e238]: Gia dụng tiện ích
+                    - strong [ref=f7e239]: Giá đựng bát đĩa Joseph Joseph 851690 – Mở rộng không gian bếp
+                    - generic [ref=f7e240]: 2.290.000 đ
+                - link "Máy bắt muỗi sinh học GKÖCH Gia dụng tiện ích Máy Bắt Muỗi Sinh Học GKÖCH YG-M006 – Tia UV 360° 490.000 đ 350.000 đ" [ref=f7e241] [cursor=pointer]:
+                  - /url: /san-pham/may-bat-muoi-sinh-hoc-gkoch-yg-m006/
+                  - img "Máy bắt muỗi sinh học GKÖCH" [ref=f7e242]
+                  - generic [ref=f7e243]:
+                    - generic [ref=f7e244]: Gia dụng tiện ích
+                    - strong [ref=f7e245]: Máy Bắt Muỗi Sinh Học GKÖCH YG-M006 – Tia UV 360°
+                    - generic [ref=f7e246]:
+                      - deletion [ref=f7e247]: 490.000 đ
+                      - text: 350.000 đ
+                - link "Quạt tháp UNOLD Super Air Smart 360 Gia dụng tiện ích Quạt Tháp UNOLD Super Air Smart 360 – Xoay 360 Độ 3.650.000 đ 2.890.000 đ" [ref=f7e248] [cursor=pointer]:
+                  - /url: /san-pham/quat-thap-unold-super-air-smart-360/
+                  - img "Quạt tháp UNOLD Super Air Smart 360" [ref=f7e249]
+                  - generic [ref=f7e250]:
+                    - generic [ref=f7e251]: Gia dụng tiện ích
+                    - strong [ref=f7e252]: Quạt Tháp UNOLD Super Air Smart 360 – Xoay 360 Độ
+                    - generic [ref=f7e253]:
+                      - deletion [ref=f7e254]: 3.650.000 đ
+                      - text: 2.890.000 đ
+                - link "Set thìa dĩa WMF Miami 12 món Gia dụng tiện ích Set Thìa Dĩa WMF Miami 12 Món – Thép Cromargan 1.550.000 đ 1.150.000 đ" [ref=f7e255] [cursor=pointer]:
+                  - /url: /san-pham/set-thia-dia-wmf-miami-12-mon/
+                  - img "Set thìa dĩa WMF Miami 12 món" [ref=f7e256]
+                  - generic [ref=f7e257]:
+                    - generic [ref=f7e258]: Gia dụng tiện ích
+                    - strong [ref=f7e259]: Set Thìa Dĩa WMF Miami 12 Món – Thép Cromargan
+                    - generic [ref=f7e260]:
+                      - deletion [ref=f7e261]: 1.550.000 đ
+                      - text: 1.150.000 đ
+            - generic [ref=f7e262]:
+              - generic [ref=f7e263]:
+                - generic [ref=f7e264]:
+                  - heading "Thiết bị gia dụng thông minh" [level=2] [ref=f7e265]
+                  - paragraph [ref=f7e266]: Những lựa chọn hiện đại giúp bạn chủ động hơn trong sinh hoạt.
+                - link "Xem danh mục →" [ref=f7e267] [cursor=pointer]:
+                  - /url: /danh-muc/san-pham-thong-minh/
+              - generic [ref=f7e268]:
+                - link "Robot lọc không khí ECOVACS AIRBOT ANDY PRO Thiết bị gia dụng thông minh Robot lọc không khí ECOVACS AIRBOT ANDY PRO – Lọc khí tự di chuyển 7.990.000 đ" [ref=f7e269] [cursor=pointer]:
+                  - /url: /san-pham/robot-loc-khong-khi-ecovacs-airbot-andy-pro-loc-khi-tu-di-chuyen/
+                  - img "Robot lọc không khí ECOVACS AIRBOT ANDY PRO" [ref=f7e270]
+                  - generic [ref=f7e271]:
+                    - generic [ref=f7e272]: Thiết bị gia dụng thông minh
+                    - strong [ref=f7e273]: Robot lọc không khí ECOVACS AIRBOT ANDY PRO – Lọc khí tự di chuyển
+                    - generic [ref=f7e274]: 7.990.000 đ
+                - link "Nồi cơm áp suất Habibullet PHB-8386 Thiết bị gia dụng thông minh Nồi Cơm Áp Suất Habibullet PHB-8386 – 2 Lòng Nồi 3.290.000 đ 2.590.000 đ" [ref=f7e275] [cursor=pointer]:
+                  - /url: /san-pham/noi-com-ap-suat-habibullet-phb-8386-2-long-noi/
+                  - img "Nồi cơm áp suất Habibullet PHB-8386" [ref=f7e276]
+                  - generic [ref=f7e277]:
+                    - generic [ref=f7e278]: Thiết bị gia dụng thông minh
+                    - strong [ref=f7e279]: Nồi Cơm Áp Suất Habibullet PHB-8386 – 2 Lòng Nồi
+                    - generic [ref=f7e280]:
+                      - deletion [ref=f7e281]: 3.290.000 đ
+                      - text: 2.590.000 đ
+                - link "Quạt tháp UNOLD Super Air Smart 360 Thiết bị gia dụng thông minh Quạt Tháp UNOLD Super Air Smart 360 – Xoay 360 Độ 3.650.000 đ 2.890.000 đ" [ref=f7e282] [cursor=pointer]:
+                  - /url: /san-pham/quat-thap-unold-super-air-smart-360/
+                  - img "Quạt tháp UNOLD Super Air Smart 360" [ref=f7e283]
+                  - generic [ref=f7e284]:
+                    - generic [ref=f7e285]: Thiết bị gia dụng thông minh
+                    - strong [ref=f7e286]: Quạt Tháp UNOLD Super Air Smart 360 – Xoay 360 Độ
+                    - generic [ref=f7e287]:
+                      - deletion [ref=f7e288]: 3.650.000 đ
+                      - text: 2.890.000 đ
+                - link "Nồi hấp điện 3 tầng Tefal VC2048 Thiết bị gia dụng thông minh Nồi Hấp Điện 3 Tầng Tefal VC2048 – Dung tích 9L 1.450.000 đ 1.050.000 đ" [ref=f7e289] [cursor=pointer]:
+                  - /url: /san-pham/noi-hap-3-tang-tefal-vc2048/
+                  - img "Nồi hấp điện 3 tầng Tefal VC2048" [ref=f7e290]
+                  - generic [ref=f7e291]:
+                    - generic [ref=f7e292]: Thiết bị gia dụng thông minh
+                    - strong [ref=f7e293]: Nồi Hấp Điện 3 Tầng Tefal VC2048 – Dung tích 9L
+                    - generic [ref=f7e294]:
+                      - deletion [ref=f7e295]: 1.450.000 đ
+                      - text: 1.050.000 đ
+            - generic [ref=f7e296]:
+              - generic [ref=f7e297]:
+                - generic [ref=f7e298]:
+                  - heading "Không gian sống & decor tiện ích" [level=2] [ref=f7e299]
+                  - paragraph [ref=f7e300]: Những điểm nhấn nhỏ để căn nhà có thêm cảm giác riêng.
+                - link "Xem danh mục →" [ref=f7e301] [cursor=pointer]:
+                  - /url: /danh-muc/san-pham-deco/
+              - generic [ref=f7e302]:
+                - link "Thố pha lê hình cây thông Bohemia Không gian sống & decor tiện ích Thố Pha Lê Hình Cây Thông Noel Tree Bohemia – Đường kính 16,5cm 1.690.000 đ" [ref=f7e303] [cursor=pointer]:
+                  - /url: /san-pham/tho-pha-le-hinh-cay-thong-noel-tree-bohemia-duong-kinh-165cm/
+                  - img "Thố pha lê hình cây thông Bohemia" [ref=f7e304]
+                  - generic [ref=f7e305]:
+                    - generic [ref=f7e306]: Không gian sống & decor tiện ích
+                    - strong [ref=f7e307]: Thố Pha Lê Hình Cây Thông Noel Tree Bohemia – Đường kính 16,5cm
+                    - generic [ref=f7e308]: 1.690.000 đ
+                - link "Quạt tháp UNOLD Super Air Smart 360 Không gian sống & decor tiện ích Quạt Tháp UNOLD Super Air Smart 360 – Xoay 360 Độ 3.650.000 đ 2.890.000 đ" [ref=f7e309] [cursor=pointer]:
+                  - /url: /san-pham/quat-thap-unold-super-air-smart-360/
+                  - img "Quạt tháp UNOLD Super Air Smart 360" [ref=f7e310]
+                  - generic [ref=f7e311]:
+                    - generic [ref=f7e312]: Không gian sống & decor tiện ích
+                    - strong [ref=f7e313]: Quạt Tháp UNOLD Super Air Smart 360 – Xoay 360 Độ
+                    - generic [ref=f7e314]:
+                      - deletion [ref=f7e315]: 3.650.000 đ
+                      - text: 2.890.000 đ
+                - link "Set thìa dĩa WMF Miami 12 món Không gian sống & decor tiện ích Set Thìa Dĩa WMF Miami 12 Món – Thép Cromargan 1.550.000 đ 1.150.000 đ" [ref=f7e316] [cursor=pointer]:
+                  - /url: /san-pham/set-thia-dia-wmf-miami-12-mon/
+                  - img "Set thìa dĩa WMF Miami 12 món" [ref=f7e317]
+                  - generic [ref=f7e318]:
+                    - generic [ref=f7e319]: Không gian sống & decor tiện ích
+                    - strong [ref=f7e320]: Set Thìa Dĩa WMF Miami 12 Món – Thép Cromargan
+                    - generic [ref=f7e321]:
+                      - deletion [ref=f7e322]: 1.550.000 đ
+                      - text: 1.150.000 đ
+                - link "Đèn bàn học chống cận Wilit U20E Không gian sống & decor tiện ích Đèn Bàn Học Chống Cận Wilit U20E – 3 Chế Độ Sáng 950.000 đ 690.000 đ" [ref=f7e323] [cursor=pointer]:
+                  - /url: /san-pham/den-ban-hoc-chong-can-wilit-u20e-model-2026/
+                  - img "Đèn bàn học chống cận Wilit U20E" [ref=f7e324]
+                  - generic [ref=f7e325]:
+                    - generic [ref=f7e326]: Không gian sống & decor tiện ích
+                    - strong [ref=f7e327]: Đèn Bàn Học Chống Cận Wilit U20E – 3 Chế Độ Sáng
+                    - generic [ref=f7e328]:
+                      - deletion [ref=f7e329]: 950.000 đ
+                      - text: 690.000 đ
+            - generic [ref=f7e330]:
+              - generic [ref=f7e331]:
+                - generic [ref=f7e332]:
+                  - heading "Gia dụng châu Âu" [level=2] [ref=f7e333]
+                  - paragraph [ref=f7e334]: Thiết kế chỉn chu và cảm giác dùng bền lâu.
+                - link "Xem danh mục →" [ref=f7e335] [cursor=pointer]:
+                  - /url: /danh-muc/gia-dung-chau-au/
+              - link "Nồi gang tráng men hình cà chua Moos Gia dụng châu Âu Nồi Gang Tráng Men Hình Cà Chua Moos – Men Đỏ 2.200.000 đ 1.590.000 đ" [ref=f7e337] [cursor=pointer]:
+                - /url: /san-pham/noi-gang-ca-chua-moos/
+                - img "Nồi gang tráng men hình cà chua Moos" [ref=f7e338]
+                - generic [ref=f7e339]:
+                  - generic [ref=f7e340]: Gia dụng châu Âu
+                  - strong [ref=f7e341]: Nồi Gang Tráng Men Hình Cà Chua Moos – Men Đỏ
+                  - generic [ref=f7e342]:
+                    - deletion [ref=f7e343]: 2.200.000 đ
+                    - text: 1.590.000 đ
+        - region [ref=f7e344]:
+          - generic [ref=f7e345]:
+            - paragraph [ref=f7e346]: Góc tư vấn
+            - heading "Đọc trước khi chọn, dùng sau càng yên tâm." [level=2] [ref=f7e347]
+            - paragraph [ref=f7e348]: Kinh nghiệm đời thường, cách đọc thông số và những so sánh ngắn gọn để bạn mua món đồ hợp với nhà mình — không phải mua theo trào lưu.
+          - generic [ref=f7e349]:
+            - 'link "Máy pha cà phê Bosch trên bàn bếp Chất liệu Inox 201, 304, 316 hay 430: chọn loại nào cho căn bếp? Đọc bài →" [ref=f7e350] [cursor=pointer]':
+              - /url: /so-sanh-inox-bep/
+              - img "Máy pha cà phê Bosch trên bàn bếp" [ref=f7e351]
+              - generic [ref=f7e352]: Chất liệu
+              - strong [ref=f7e353]: "Inox 201, 304, 316 hay 430: chọn loại nào cho căn bếp?"
+              - generic [ref=f7e354]: Đọc bài →
+            - link "Máy vắt cam CASO CP 330 Pro cùng ly nước cam Kinh nghiệm 7 tiêu chí chọn đồ gia dụng thông minh cho căn bếp Đọc bài →" [ref=f7e355] [cursor=pointer]:
+              - /url: /7-tieu-chi-chon-do-gia-dung-thong-minh/
+              - img "Máy vắt cam CASO CP 330 Pro cùng ly nước cam" [ref=f7e356]
+              - generic [ref=f7e357]: Kinh nghiệm
+              - strong [ref=f7e358]: 7 tiêu chí chọn đồ gia dụng thông minh cho căn bếp
+              - generic [ref=f7e359]: Đọc bài →
+            - link "Tủ sấy quần áo GUME trong phòng giặt Cẩm nang Xem thêm mẹo chăm nhà và chọn đồ bền hơn Đến chuyên mục →" [ref=f7e360] [cursor=pointer]:
+              - /url: /tin-tuc/
+              - img "Tủ sấy quần áo GUME trong phòng giặt" [ref=f7e361]
+              - generic [ref=f7e362]: Cẩm nang
+              - strong [ref=f7e363]: Xem thêm mẹo chăm nhà và chọn đồ bền hơn
+              - generic [ref=f7e364]: Đến chuyên mục →
+        - generic [ref=f7e365]:
+          - generic [ref=f7e366]:
+            - heading "Căn nhà của bạn đang cần nhẹ đi ở đâu?" [level=2] [ref=f7e367]
+            - paragraph [ref=f7e368]: Bắt đầu từ một nhóm sản phẩm, rồi chọn từng món theo nhu cầu thật.
+          - link "Bắt đầu xem hàng" [ref=f7e369] [cursor=pointer]:
+            - /url: /cua-hang/
+  - contentinfo [ref=f7e373]:
+    - generic [ref=f7e374]:
+      - generic [ref=f7e375]:
+        - generic [ref=f7e376]:
+          - generic [ref=f7e377]:
+            - generic [ref=f7e378]: Thông tin liên hệ
+            - paragraph [ref=f7e380]: "Địa chỉ: S219 Đại Dương 8, Vinhomes Ocean Park, Gia Lâm, Hà Nội Hotline: 086 639 3892 Email: dolphinhouse.vn@gmail.com Tư vấn: Đồ gia dụng thông minh, điện gia dụng và tiện ích cao cấp cho gia đình hiện đại"
+          - generic [ref=f7e381]:
+            - generic [ref=f7e382]: Theo dõi Dolphin House
+            - generic:
+              - list:
+                - listitem [ref=f7e383]:
+                  - link "" [ref=f7e384] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f7e386]:
+                  - link "" [ref=f7e387] [cursor=pointer]:
+                    - /url: "#"
+        - generic [ref=f7e390]:
+          - generic [ref=f7e391]: Trợ giúp
+          - list [ref=f7e393]:
+            - listitem [ref=f7e394]:
+              - text: 
+              - link "Gia dụng thông minh cao cấp" [ref=f7e395] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/
+            - listitem [ref=f7e396]:
+              - text: 
+              - link "Tư vấn chọn mua" [ref=f7e397] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/tin-tuc/
+            - listitem [ref=f7e398]:
+              - text: 
+              - link "Về Dolphin House" [ref=f7e399] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/gioi-thieu/
+            - listitem [ref=f7e400]:
+              - text: 
+              - link "Hỗ trợ khách hàng" [ref=f7e401] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/ho-tro-khach-hang/
+            - listitem [ref=f7e402]:
+              - text: 
+              - link "Hình thức thanh toán" [ref=f7e403] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/hinh-thuc-thanh-toan/
+            - listitem [ref=f7e404]:
+              - text: 
+              - link "Chính sách vận chuyển" [ref=f7e405] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/hinh-thuc-van-chuyen/
+        - paragraph [ref=f7e409]:
+          - strong [ref=f7e410]: Dolphin House
+          - text: "- sản phẩm chọn lọc, tư vấn rõ ràng, giao diện gọn nhẹ."
+        - generic [ref=f7e412]:
+          - generic [ref=f7e413]: Bản đồ
+          - button "Tải bản đồ chỉ đường tới Dolphin House" [ref=f7e417] [cursor=pointer]:
+            - generic [ref=f7e418]: Xem bản đồ
+            - generic [ref=f7e419]: Chỉ tải Google Maps khi bạn bấm
+      - text:       
+      - generic [ref=f7e420]: Copyright © 2026 dolphinhouse.vn - All Rights Reserved.
+  - text: 
+  - link [ref=f7e423] [cursor=pointer]:
+    - /url: https://zalo.me/0866393892
+    - img "Contact Me on Zalo" [ref=f7e427]
+  - text: 
+  - status [ref=f7e428]

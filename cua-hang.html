@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cửa Hàng Đồ Gia Dụng Thông Minh Cao Cấp | Dolphin House</title>
+<link rel="icon" href="assets/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="site-header"></div>
+
+<main class="container">
+  <nav class="breadcrumb"><a href="index.html">Trang chủ</a> / Cửa hàng gia dụng thông minh</nav>
+  <div class="page-head">
+    <h1 id="listing-title">Cửa hàng gia dụng thông minh</h1>
+    <p class="desc" id="listing-desc">Khám phá đồ gia dụng thông minh, thiết bị bếp, điện gia dụng và tiện ích nhà cửa được Dolphin House chọn lọc cho gia đình hiện đại.</p>
+  </div>
+  <div class="category-chip-row" id="category-chips"></div>
+  <div class="shop-toolbar">
+    <p id="result-count"></p>
+    <select id="sort-select">
+      <option value="default">Sắp xếp mặc định</option>
+      <option value="latest">Sắp xếp theo mới nhất</option>
+      <option value="price-asc">Sắp xếp theo giá: thấp đến cao</option>
+      <option value="price-desc">Sắp xếp theo giá: cao đến thấp</option>
+    </select>
+  </div>
+  <div class="product-grid" id="product-listing"></div>
+  <nav class="pagination" id="pagination"></nav>
+</main>
+
+<div id="site-footer"></div>
+
+<script src="js/data/products.data.js"></script>
+<script src="js/data/categories.data.js"></script>
+<script src="js/common.js"></script>
+<script src="js/shop.js"></script>
+<script>
+  bindSortHandler();
+  renderListing({ categorySlug: null });
+</script>
+</body>
+</html>

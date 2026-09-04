@@ -1,0 +1,307 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e4]:
+      - generic [ref=f2e5]: Chào mừng bạn đến với Dolphin House
+      - generic [ref=f2e6]:  HOTLINE 086 6393 892
+      - generic [ref=f2e7]: "Thứ 2-CN : 8h-17h30"
+    - generic [ref=f2e9]:
+      - link [ref=f2e11] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn/
+        - img "Dolphin House" [ref=f2e13]
+      - search [ref=f2e15]:
+        - searchbox "Search for:" [ref=f2e16]
+        - button "Tìm kiếm" [ref=f2e17] [cursor=pointer]
+      - link " Giỏ hàng của bạn Chưa có sản phẩm" [ref=f2e20] [cursor=pointer]:
+        - /url: https://dolphinhouse.vn/gio-hang/
+        - text: 
+        - generic [ref=f2e21]: Giỏ hàng của bạn
+        - text: Chưa có sản phẩm
+    - generic [ref=f2e23]:
+      - button "Mở hoặc đóng danh mục sản phẩm" [ref=f2e25] [cursor=pointer]:
+        - text: Danh mục sản phẩm
+        - generic [ref=f2e26]: 
+      - text: 
+      - navigation [ref=f2e27]:
+        - list [ref=f2e28]:
+          - listitem [ref=f2e29]:
+            - link "Trang chủ" [ref=f2e30] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/
+          - listitem [ref=f2e31]:
+            - link "Cửa hàng" [ref=f2e32] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/cua-hang/
+          - listitem [ref=f2e33]:
+            - text: 
+            - link "Danh mục sản phẩm" [ref=f2e34] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/cua-hang/
+          - listitem [ref=f2e35]:
+            - link "Góc Chuyên Gia" [ref=f2e36] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/tin-tuc/
+          - listitem [ref=f2e37]:
+            - link "Giới thiệu" [ref=f2e38] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/gioi-thieu/
+          - listitem [ref=f2e39]:
+            - link "Liên hệ" [ref=f2e40] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/lien-he/
+          - listitem [ref=f2e41]:
+            - link "Videos" [ref=f2e42] [cursor=pointer]:
+              - /url: https://dolphinhouse.vn/videos/
+  - main [ref=f2e43]:
+    - region [ref=f2e44]:
+      - generic [ref=f2e45]:
+        - region [ref=f2e46]:
+          - generic [ref=f2e47]:
+            - paragraph [ref=f2e48]: Dolphin House · Chọn lọc cho tổ ấm
+            - heading "Nhà gọn hơn, mỗi ngày nhẹ hơn" [level=1] [ref=f2e49]
+            - paragraph [ref=f2e50]: Từ căn bếp đến góc phòng khách, Dolphin House chọn những món gia dụng thật sự hữu ích để bạn bớt loay hoay với việc nhà và có thêm thời gian cho những điều đáng yêu.
+            - generic [ref=f2e51]:
+              - link "Khám phá sản phẩm" [ref=f2e52] [cursor=pointer]:
+                - /url: /cua-hang/
+              - link "Xem cẩm nang" [ref=f2e53] [cursor=pointer]:
+                - /url: /tin-tuc/
+            - list [ref=f2e54]:
+              - listitem [ref=f2e55]: ✓ Thông tin rõ ràng
+              - listitem [ref=f2e56]: ✓ Chọn theo nhu cầu
+              - listitem [ref=f2e57]: ✓ Tư vấn dễ hiểu
+          - complementary [ref=f2e58]:
+            - img "Không gian sống gọn gàng với thiết bị gia dụng thông minh Dolphin House" [ref=f2e59]
+            - generic [ref=f2e60]: Góc chọn đồ của Dolphin House
+            - strong [ref=f2e61]: Mua ít hơn, nhưng chọn đúng hơn.
+            - paragraph [ref=f2e62]: Mỗi sản phẩm nên giải quyết một việc cụ thể và đem lại cảm giác nhẹ nhõm sau khi dùng.
+            - list [ref=f2e63]:
+              - listitem [ref=f2e64]:
+                - generic [ref=f2e65]: "01"
+                - generic [ref=f2e66]: Cho căn bếp gọn và dễ dùng
+              - listitem [ref=f2e67]:
+                - generic [ref=f2e68]: "02"
+                - generic [ref=f2e69]: Cho việc nhà bớt tốn sức
+              - listitem [ref=f2e70]:
+                - generic [ref=f2e71]: "03"
+                - generic [ref=f2e72]: Cho không gian sống dễ chịu
+        - region "Lý do chọn Dolphin House" [ref=f2e73]:
+          - generic [ref=f2e74]:
+            - generic [ref=f2e75]: Chọn lọc có lý do
+            - generic [ref=f2e76]: Ưu tiên sản phẩm hữu ích, dùng được lâu.
+          - generic [ref=f2e77]:
+            - generic [ref=f2e78]: Mô tả dễ hiểu
+            - generic [ref=f2e79]: Nói rõ công dụng, thông số và điểm cần lưu ý.
+          - generic [ref=f2e80]:
+            - generic [ref=f2e81]: Gợi ý theo nhu cầu
+            - generic [ref=f2e82]: Không cần biết kỹ thuật vẫn chọn được món phù hợp.
+          - generic [ref=f2e83]:
+            - generic [ref=f2e84]: Đồng hành sau mua
+            - generic [ref=f2e85]: Cần hỏi cách dùng, cứ liên hệ Dolphin House.
+        - generic [ref=f2e86]:
+          - generic [ref=f2e87]:
+            - generic [ref=f2e88]:
+              - generic [ref=f2e89]:
+                - heading "Danh mục sản phẩm" [level=2] [ref=f2e90]
+                - paragraph [ref=f2e91]: Chọn đúng nhóm để tìm nhanh món đồ phù hợp với căn nhà của bạn.
+              - link "Xem tất cả →" [ref=f2e92] [cursor=pointer]:
+                - /url: /cua-hang/
+            - generic [ref=f2e93]:
+              - link "Góc bếp gọn gàng với giá đựng bát đĩa Bếp thông minh & dụng cụ nấu ăn Nồi chảo và trợ thủ cho bữa cơm Khám phá →" [ref=f2e94] [cursor=pointer]:
+                - /url: /danh-muc/do-dung-nha-bep/
+                - img "Góc bếp gọn gàng với giá đựng bát đĩa" [ref=f2e95]
+                - generic [ref=f2e96]:
+                  - strong [ref=f2e97]: Bếp thông minh & dụng cụ nấu ăn
+                  - generic [ref=f2e98]: Nồi chảo và trợ thủ cho bữa cơm
+                  - emphasis [ref=f2e99]: Khám phá →
+              - link "Tủ sấy quần áo trong phòng giặt Chăm sóc gia đình & phòng ngủ Giặt giũ, sấy khô, chăm nhà Khám phá →" [ref=f2e100] [cursor=pointer]:
+                - /url: /danh-muc/chan-ga-goi-dem/
+                - img "Tủ sấy quần áo trong phòng giặt" [ref=f2e101]
+                - generic [ref=f2e102]:
+                  - strong [ref=f2e103]: Chăm sóc gia đình & phòng ngủ
+                  - generic [ref=f2e104]: Giặt giũ, sấy khô, chăm nhà
+                  - emphasis [ref=f2e105]: Khám phá →
+              - link "Bàn là cây Philips trong góc chăm quần áo Điện gia dụng Thiết bị giúp việc nhà nhẹ hơn Khám phá →" [ref=f2e106] [cursor=pointer]:
+                - /url: /danh-muc/dien-gia-dung/
+                - img "Bàn là cây Philips trong góc chăm quần áo" [ref=f2e107]
+                - generic [ref=f2e108]:
+                  - strong [ref=f2e109]: Điện gia dụng
+                  - generic [ref=f2e110]: Thiết bị giúp việc nhà nhẹ hơn
+                  - emphasis [ref=f2e111]: Khám phá →
+              - link "Máy hút ẩm trong không gian gia đình Gia dụng tiện ích Sắp xếp và vệ sinh nhà cửa Khám phá →" [ref=f2e112] [cursor=pointer]:
+                - /url: /danh-muc/gia-dung-tien-ich/
+                - img "Máy hút ẩm trong không gian gia đình" [ref=f2e113]
+                - generic [ref=f2e114]:
+                  - strong [ref=f2e115]: Gia dụng tiện ích
+                  - generic [ref=f2e116]: Sắp xếp và vệ sinh nhà cửa
+                  - emphasis [ref=f2e117]: Khám phá →
+              - link "Robot lọc không khí trong phòng khách Thiết bị gia dụng thông minh Chăm không gian sống chủ động hơn Khám phá →" [ref=f2e118] [cursor=pointer]:
+                - /url: /danh-muc/san-pham-thong-minh/
+                - img "Robot lọc không khí trong phòng khách" [ref=f2e119]
+                - generic [ref=f2e120]:
+                  - strong [ref=f2e121]: Thiết bị gia dụng thông minh
+                  - generic [ref=f2e122]: Chăm không gian sống chủ động hơn
+                  - emphasis [ref=f2e123]: Khám phá →
+              - link "Đồ decor pha lê trên bàn tiệc gia đình Không gian sống & decor tiện ích Những điểm nhấn cho tổ ấm Khám phá →" [ref=f2e124] [cursor=pointer]:
+                - /url: /danh-muc/san-pham-deco/
+                - img "Đồ decor pha lê trên bàn tiệc gia đình" [ref=f2e125]
+                - generic [ref=f2e126]:
+                  - strong [ref=f2e127]: Không gian sống & decor tiện ích
+                  - generic [ref=f2e128]: Những điểm nhấn cho tổ ấm
+                  - emphasis [ref=f2e129]: Khám phá →
+              - link "Máy pha cà phê Bosch trên bàn bếp Gia dụng châu Âu Thiết kế đẹp, dùng lâu dài Khám phá →" [ref=f2e130] [cursor=pointer]:
+                - /url: /danh-muc/gia-dung-chau-au/
+                - img "Máy pha cà phê Bosch trên bàn bếp" [ref=f2e131]
+                - generic [ref=f2e132]:
+                  - strong [ref=f2e133]: Gia dụng châu Âu
+                  - generic [ref=f2e134]: Thiết kế đẹp, dùng lâu dài
+                  - emphasis [ref=f2e135]: Khám phá →
+              - link "Không gian gia đình an toàn, tiện nghi Ghế ô tô trẻ em Danh mục đang được bổ sung Khám phá →" [ref=f2e136] [cursor=pointer]:
+                - /url: /danh-muc/ghe-o-to-tre-em/
+                - img "Không gian gia đình an toàn, tiện nghi" [ref=f2e137]
+                - generic [ref=f2e138]:
+                  - strong [ref=f2e139]: Ghế ô tô trẻ em
+                  - generic [ref=f2e140]: Danh mục đang được bổ sung
+                  - emphasis [ref=f2e141]: Khám phá →
+            - generic [ref=f2e142]:
+              - generic [ref=f2e143]: "Khám phá nhanh:"
+              - link "Nồi chảo cao cấp" [ref=f2e144] [cursor=pointer]:
+                - /url: /danh-muc/do-dung-nha-bep/chao/
+              - link "Nồi & xửng hấp" [ref=f2e145] [cursor=pointer]:
+                - /url: /danh-muc/do-dung-nha-bep/xong-noi/
+              - link "Vệ sinh nhà cửa thông minh" [ref=f2e146] [cursor=pointer]:
+                - /url: /danh-muc/gia-dung-tien-ich/ve-sinh-nha-cua/
+          - generic [ref=f2e147]:
+            - generic [ref=f2e148]:
+              - generic [ref=f2e149]:
+                - heading "Sản phẩm được quan tâm" [level=2] [ref=f2e150]
+                - paragraph [ref=f2e151]: Một vài lựa chọn tiêu biểu để bạn hình dung rõ hơn Dolphin House đang bán gì.
+              - link "Xem toàn bộ →" [ref=f2e152] [cursor=pointer]:
+                - /url: /cua-hang/
+            - generic [ref=f2e153]:
+              - link "Tủ sấy quần áo GUME GM-8222 Dolphin House chọn lọc Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng 1.180.000 đ" [ref=f2e154] [cursor=pointer]:
+                - /url: /san-pham/tu-say-gume-gm-8222-say-kho-quan-ao-gon-gang/
+                - img "Tủ sấy quần áo GUME GM-8222" [ref=f2e155]
+                - generic [ref=f2e156]:
+                  - generic [ref=f2e157]: Dolphin House chọn lọc
+                  - strong [ref=f2e158]: Tủ sấy GUME GM-8222 – Sấy khô quần áo gọn gàng
+                  - generic [ref=f2e159]: 1.180.000 đ
+              - link "Nồi cơm điện Cuckoo CRP-HWF1000F Dolphin House chọn lọc Nồi cơm điện Cuckoo CRP-HWF1000F – 1,8L 5.150.000 đ" [ref=f2e160] [cursor=pointer]:
+                - /url: /san-pham/noi-com-dien-cao-tan-ap-suat-cuckoo-crp-hwf1000f-18l/
+                - img "Nồi cơm điện Cuckoo CRP-HWF1000F" [ref=f2e161]
+                - generic [ref=f2e162]:
+                  - generic [ref=f2e163]: Dolphin House chọn lọc
+                  - strong [ref=f2e164]: Nồi cơm điện Cuckoo CRP-HWF1000F – 1,8L
+                  - generic [ref=f2e165]: 5.150.000 đ
+              - link "Máy vắt cam CASO CP 330 PRO Dolphin House chọn lọc Máy vắt cam CASO CP 330 PRO – Công suất 160W 1.850.000 đ" [ref=f2e166] [cursor=pointer]:
+                - /url: /san-pham/may-vat-cam-caso-cp-330-pro-cong-suat-160w/
+                - img "Máy vắt cam CASO CP 330 PRO" [ref=f2e167]
+                - generic [ref=f2e168]:
+                  - generic [ref=f2e169]: Dolphin House chọn lọc
+                  - strong [ref=f2e170]: Máy vắt cam CASO CP 330 PRO – Công suất 160W
+                  - generic [ref=f2e171]: 1.850.000 đ
+              - link "Máy lọc không khí LG ALPHA PET Dolphin House chọn lọc Máy lọc không khí LG ALPHA PET – Lọc bụi và mùi thú cưng 22.200.000 đ" [ref=f2e172] [cursor=pointer]:
+                - /url: /san-pham/may-loc-khong-khi-lg-alpha-pet-2-tang-as10gdby0-loc-bui-va-mui-thu-cung/
+                - img "Máy lọc không khí LG ALPHA PET" [ref=f2e173]
+                - generic [ref=f2e174]:
+                  - generic [ref=f2e175]: Dolphin House chọn lọc
+                  - strong [ref=f2e176]: Máy lọc không khí LG ALPHA PET – Lọc bụi và mùi thú cưng
+                  - generic [ref=f2e177]: 22.200.000 đ
+              - link "Máy pha cà phê Bosch TKA3M133 Dolphin House chọn lọc Máy pha cà phê Bosch TKA3M133 – Bình 1,4L 2.170.000 đ" [ref=f2e178] [cursor=pointer]:
+                - /url: /san-pham/may-pha-ca-phe-bosch-tka3m133-binh-14l-cong-suat-1200w/
+                - img "Máy pha cà phê Bosch TKA3M133" [ref=f2e179]
+                - generic [ref=f2e180]:
+                  - generic [ref=f2e181]: Dolphin House chọn lọc
+                  - strong [ref=f2e182]: Máy pha cà phê Bosch TKA3M133 – Bình 1,4L
+                  - generic [ref=f2e183]: 2.170.000 đ
+              - link "Bàn là cây Philips STE3160/30 Dolphin House chọn lọc Bàn là cây Philips STE3160/30 – Công suất 2000W 2.750.000 đ" [ref=f2e184] [cursor=pointer]:
+                - /url: /san-pham/ban-la-cay-philips-ste3160-30-cong-suat-2000w/
+                - img "Bàn là cây Philips STE3160/30" [ref=f2e185]
+                - generic [ref=f2e186]:
+                  - generic [ref=f2e187]: Dolphin House chọn lọc
+                  - strong [ref=f2e188]: Bàn là cây Philips STE3160/30 – Công suất 2000W
+                  - generic [ref=f2e189]: 2.750.000 đ
+            - link "Xem thêm sản phẩm →" [ref=f2e191] [cursor=pointer]:
+              - /url: /cua-hang/
+        - region [ref=f2e192]:
+          - generic [ref=f2e193]:
+            - paragraph [ref=f2e194]: Góc tư vấn
+            - heading "Đọc trước khi chọn, dùng sau càng yên tâm." [level=2] [ref=f2e195]
+            - paragraph [ref=f2e196]: Kinh nghiệm đời thường, cách đọc thông số và những so sánh ngắn gọn để bạn mua món đồ hợp với nhà mình — không phải mua theo trào lưu.
+          - generic [ref=f2e197]:
+            - 'link "Máy pha cà phê Bosch trên bàn bếp Chất liệu Inox 201, 304, 316 hay 430: chọn loại nào cho căn bếp? Đọc bài →" [ref=f2e198] [cursor=pointer]':
+              - /url: /so-sanh-inox-bep/
+              - img "Máy pha cà phê Bosch trên bàn bếp" [ref=f2e199]
+              - generic [ref=f2e200]: Chất liệu
+              - strong [ref=f2e201]: "Inox 201, 304, 316 hay 430: chọn loại nào cho căn bếp?"
+              - generic [ref=f2e202]: Đọc bài →
+            - link "Máy vắt cam CASO CP 330 Pro cùng ly nước cam Kinh nghiệm 7 tiêu chí chọn đồ gia dụng thông minh cho căn bếp Đọc bài →" [ref=f2e203] [cursor=pointer]:
+              - /url: /7-tieu-chi-chon-do-gia-dung-thong-minh/
+              - img "Máy vắt cam CASO CP 330 Pro cùng ly nước cam" [ref=f2e204]
+              - generic [ref=f2e205]: Kinh nghiệm
+              - strong [ref=f2e206]: 7 tiêu chí chọn đồ gia dụng thông minh cho căn bếp
+              - generic [ref=f2e207]: Đọc bài →
+            - link "Tủ sấy quần áo GUME trong phòng giặt Cẩm nang Xem thêm mẹo chăm nhà và chọn đồ bền hơn Đến chuyên mục →" [ref=f2e208] [cursor=pointer]:
+              - /url: /tin-tuc/
+              - img "Tủ sấy quần áo GUME trong phòng giặt" [ref=f2e209]
+              - generic [ref=f2e210]: Cẩm nang
+              - strong [ref=f2e211]: Xem thêm mẹo chăm nhà và chọn đồ bền hơn
+              - generic [ref=f2e212]: Đến chuyên mục →
+        - generic [ref=f2e213]:
+          - generic [ref=f2e214]:
+            - heading "Căn nhà của bạn đang cần nhẹ đi ở đâu?" [level=2] [ref=f2e215]
+            - paragraph [ref=f2e216]: Bắt đầu từ một nhóm sản phẩm, rồi chọn từng món theo nhu cầu thật.
+          - link "Bắt đầu xem hàng" [ref=f2e217] [cursor=pointer]:
+            - /url: /cua-hang/
+  - contentinfo [ref=f2e221]:
+    - generic [ref=f2e222]:
+      - generic [ref=f2e223]:
+        - generic [ref=f2e224]:
+          - generic [ref=f2e225]:
+            - generic [ref=f2e226]: Thông tin liên hệ
+            - paragraph [ref=f2e228]: "Địa chỉ: S219 Đại Dương 8, Vinhomes Ocean Park, Gia Lâm, Hà Nội Hotline: 086 639 3892 Email: dolphinhouse.vn@gmail.com Tư vấn: Đồ gia dụng thông minh, điện gia dụng và tiện ích cao cấp cho gia đình hiện đại"
+          - generic [ref=f2e229]:
+            - generic [ref=f2e230]: Theo dõi Dolphin House
+            - generic:
+              - list:
+                - listitem [ref=f2e231]:
+                  - link "" [ref=f2e232] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f2e234]:
+                  - link "" [ref=f2e235] [cursor=pointer]:
+                    - /url: "#"
+        - generic [ref=f2e238]:
+          - generic [ref=f2e239]: Trợ giúp
+          - list [ref=f2e241]:
+            - listitem [ref=f2e242]:
+              - text: 
+              - link "Gia dụng thông minh cao cấp" [ref=f2e243] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/
+            - listitem [ref=f2e244]:
+              - text: 
+              - link "Tư vấn chọn mua" [ref=f2e245] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/tin-tuc/
+            - listitem [ref=f2e246]:
+              - text: 
+              - link "Về Dolphin House" [ref=f2e247] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/gioi-thieu/
+            - listitem [ref=f2e248]:
+              - text: 
+              - link "Hỗ trợ khách hàng" [ref=f2e249] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/ho-tro-khach-hang/
+            - listitem [ref=f2e250]:
+              - text: 
+              - link "Hình thức thanh toán" [ref=f2e251] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/hinh-thuc-thanh-toan/
+            - listitem [ref=f2e252]:
+              - text: 
+              - link "Chính sách vận chuyển" [ref=f2e253] [cursor=pointer]:
+                - /url: https://dolphinhouse.vn/hinh-thuc-van-chuyen/
+        - paragraph [ref=f2e257]:
+          - strong [ref=f2e258]: Dolphin House
+          - text: "- sản phẩm chọn lọc, tư vấn rõ ràng, giao diện gọn nhẹ."
+        - generic [ref=f2e260]:
+          - generic [ref=f2e261]: Bản đồ
+          - button "Tải bản đồ chỉ đường tới Dolphin House" [ref=f2e265] [cursor=pointer]:
+            - generic [ref=f2e266]: Xem bản đồ
+            - generic [ref=f2e267]: Chỉ tải Google Maps khi bạn bấm
+      - text:       
+      - generic [ref=f2e268]: Copyright © 2026 dolphinhouse.vn - All Rights Reserved.
+  - text: 
+  - link [ref=f2e271] [cursor=pointer]:
+    - /url: https://zalo.me/0866393892
+    - img "Contact Me on Zalo" [ref=f2e275]
+  - text: 
+  - status [ref=f2e276]

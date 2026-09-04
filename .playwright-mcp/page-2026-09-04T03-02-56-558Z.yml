@@ -1,0 +1,276 @@
+- generic [active] [ref=f13e1]:
+  - generic [ref=f13e2]:
+    - generic [ref=f13e4]:
+      - generic [ref=f13e5]: Chào mừng bạn đến với Dolphin House
+      - generic [ref=f13e6]: ☎ HOTLINE 086 6393 892
+      - generic [ref=f13e7]: "Thứ 2-CN : 8h-17h30"
+    - banner [ref=f13e8]:
+      - generic [ref=f13e9]:
+        - link [ref=f13e10] [cursor=pointer]:
+          - /url: index.html
+          - img "Dolphin House" [ref=f13e11]
+        - generic [ref=f13e12]:
+          - searchbox "Tìm kiếm sản phẩm" [ref=f13e13]
+          - button "Tìm kiếm" [ref=f13e14] [cursor=pointer]
+        - link "🛒 0 Giỏ hàng của bạn Chưa có sản phẩm" [ref=f13e15] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f13e16]:
+            - text: 🛒
+            - generic [ref=f13e17]: "0"
+          - generic [ref=f13e18]:
+            - strong [ref=f13e19]: Giỏ hàng của bạn
+            - text: Chưa có sản phẩm
+    - navigation [ref=f13e20]:
+      - generic [ref=f13e21]:
+        - button "☰ Danh mục sản phẩm" [ref=f13e22] [cursor=pointer]
+        - list [ref=f13e23]:
+          - listitem [ref=f13e24]:
+            - link "Trang chủ" [ref=f13e25] [cursor=pointer]:
+              - /url: index.html
+          - listitem [ref=f13e26]:
+            - link "Cửa hàng" [ref=f13e27] [cursor=pointer]:
+              - /url: cua-hang.html
+          - listitem [ref=f13e28]:
+            - link "Danh mục sản phẩm" [ref=f13e29] [cursor=pointer]:
+              - /url: cua-hang.html
+          - listitem [ref=f13e30]:
+            - link "Góc Chuyên Gia" [ref=f13e31] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f13e32]:
+            - link "Giới thiệu" [ref=f13e33] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f13e34]:
+            - link "Liên hệ" [ref=f13e35] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f13e36]:
+            - link "Videos" [ref=f13e37] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=f13e38]:
+    - navigation [ref=f13e39]:
+      - link "Trang chủ" [ref=f13e40] [cursor=pointer]:
+        - /url: index.html
+      - text: /
+      - link "Cửa hàng" [ref=f13e41] [cursor=pointer]:
+        - /url: cua-hang.html
+      - text: / Bếp thông minh & dụng cụ nấu ăn
+    - generic [ref=f13e42]:
+      - heading "Bếp thông minh & dụng cụ nấu ăn" [level=1] [ref=f13e43]
+      - paragraph [ref=f13e44]: Khám phá 47 sản phẩm thuộc nhóm Bếp thông minh & dụng cụ nấu ăn được Dolphin House chọn lọc.
+    - generic [ref=f13e45]:
+      - link "Bếp thông minh & dụng cụ nấu ăn" [ref=f13e46] [cursor=pointer]:
+        - /url: danh-muc.html?slug=do-dung-nha-bep
+      - link "Chăm sóc gia đình & phòng ngủ" [ref=f13e47] [cursor=pointer]:
+        - /url: danh-muc.html?slug=chan-ga-goi-dem
+      - link "Điện gia dụng" [ref=f13e48] [cursor=pointer]:
+        - /url: danh-muc.html?slug=dien-gia-dung
+      - link "Ghế ô tô trẻ em" [ref=f13e49] [cursor=pointer]:
+        - /url: danh-muc.html?slug=ghe-o-to-tre-em
+      - link "Gia dụng châu Âu" [ref=f13e50] [cursor=pointer]:
+        - /url: danh-muc.html?slug=gia-dung-chau-au
+      - link "Gia dụng tiện ích" [ref=f13e51] [cursor=pointer]:
+        - /url: danh-muc.html?slug=gia-dung-tien-ich
+      - link "Không gian sống & decor tiện ích" [ref=f13e52] [cursor=pointer]:
+        - /url: danh-muc.html?slug=san-pham-deco
+      - link "Thiết bị gia dụng thông minh" [ref=f13e53] [cursor=pointer]:
+        - /url: danh-muc.html?slug=san-pham-thong-minh
+    - generic [ref=f13e54]:
+      - paragraph [ref=f13e55]: Hiển thị 1–16 của 47 sản phẩm
+      - combobox [ref=f13e56]:
+        - option "Sắp xếp mặc định" [selected]
+        - option "Sắp xếp theo mới nhất"
+        - 'option "Sắp xếp theo giá: thấp đến cao"'
+        - 'option "Sắp xếp theo giá: cao đến thấp"'
+    - generic [ref=f13e57]:
+      - generic [ref=f13e58]:
+        - generic [ref=f13e59]: Giảm giá!
+        - link [ref=f13e60] [cursor=pointer]:
+          - /url: san-pham.html?slug=set-5-doi-dua-inox-316-chockmen-ckm-jycs5p
+          - img "Set 5 Đôi Đũa Inox 316 Chockmen CKM JYCS5P – Chống Trơn Không Mốc" [ref=f13e61]
+        - heading [level=3] [ref=f13e62]:
+          - link "Set 5 Đôi Đũa Inox 316 Chockmen CKM JYCS5P – Chống Trơn Không Mốc" [ref=f13e63] [cursor=pointer]:
+            - /url: san-pham.html?slug=set-5-doi-dua-inox-316-chockmen-ckm-jycs5p
+        - generic [ref=f13e64]: 260.000 ₫190.000 ₫
+      - generic [ref=f13e65]:
+        - generic [ref=f13e66]: Giảm giá!
+        - link [ref=f13e67] [cursor=pointer]:
+          - /url: san-pham.html?slug=set-5-doi-dua-nhat-khang-khuan-shikisai
+          - img "Set 5 Đôi Đũa Nhật Kháng Khuẩn Shikisai Hoa Anh Đào – Chịu Nhiệt 200°C" [ref=f13e68]
+        - heading [level=3] [ref=f13e69]:
+          - link "Set 5 Đôi Đũa Nhật Kháng Khuẩn Shikisai Hoa Anh Đào – Chịu Nhiệt 200°C" [ref=f13e70] [cursor=pointer]:
+            - /url: san-pham.html?slug=set-5-doi-dua-nhat-khang-khuan-shikisai
+        - generic [ref=f13e71]: 190.000 ₫140.000 ₫
+      - generic [ref=f13e72]:
+        - generic [ref=f13e73]: Giảm giá!
+        - link [ref=f13e74] [cursor=pointer]:
+          - /url: san-pham.html?slug=set-3-thot-khang-khuan-joseph-joseph-60146
+          - img "Set 3 Thớt Kháng Khuẩn Joseph Joseph 60146 Kèm Hộp Đứng Thông Thoáng" [ref=f13e75]
+        - heading [level=3] [ref=f13e76]:
+          - link "Set 3 Thớt Kháng Khuẩn Joseph Joseph 60146 Kèm Hộp Đứng Thông Thoáng" [ref=f13e77] [cursor=pointer]:
+            - /url: san-pham.html?slug=set-3-thot-khang-khuan-joseph-joseph-60146
+        - generic [ref=f13e78]: 1.890.000 ₫1.490.000 ₫
+      - generic [ref=f13e79]:
+        - generic [ref=f13e80]: Giảm giá!
+        - link [ref=f13e81] [cursor=pointer]:
+          - /url: san-pham.html?slug=keo-nha-bep-da-nang-wmf
+          - img "Kéo Nhà Bếp Đa Năng WMF – Thép Cromargan Không Gỉ Chuẩn Đức" [ref=f13e82]
+        - heading [level=3] [ref=f13e83]:
+          - link "Kéo Nhà Bếp Đa Năng WMF – Thép Cromargan Không Gỉ Chuẩn Đức" [ref=f13e84] [cursor=pointer]:
+            - /url: san-pham.html?slug=keo-nha-bep-da-nang-wmf
+        - generic [ref=f13e85]: 550.000 ₫399.000 ₫
+      - generic [ref=f13e86]:
+        - generic [ref=f13e87]: Giảm giá!
+        - link [ref=f13e88] [cursor=pointer]:
+          - /url: san-pham.html?slug=keo-cat-ga-scanpan-classic
+          - img "Kéo Cắt Gà Scanpan Classic – Thép Đức Đúc Liền Khối Đan Mạch" [ref=f13e89]
+        - heading [level=3] [ref=f13e90]:
+          - link "Kéo Cắt Gà Scanpan Classic – Thép Đức Đúc Liền Khối Đan Mạch" [ref=f13e91] [cursor=pointer]:
+            - /url: san-pham.html?slug=keo-cat-ga-scanpan-classic
+        - generic [ref=f13e92]: 1.450.000 ₫1.150.000 ₫
+      - generic [ref=f13e93]:
+        - generic [ref=f13e94]: Giảm giá!
+        - link [ref=f13e95] [cursor=pointer]:
+          - /url: san-pham.html?slug=bo-dung-cu-nha-bep-7-mon-joseph-joseph-101188
+          - img "Bộ Dụng Cụ Nhà Bếp 7 Món Joseph Joseph 101188 Kèm Giá Treo Xoay" [ref=f13e96]
+        - heading [level=3] [ref=f13e97]:
+          - link "Bộ Dụng Cụ Nhà Bếp 7 Món Joseph Joseph 101188 Kèm Giá Treo Xoay" [ref=f13e98] [cursor=pointer]:
+            - /url: san-pham.html?slug=bo-dung-cu-nha-bep-7-mon-joseph-joseph-101188
+        - generic [ref=f13e99]: 2.490.000 ₫1.999.000 ₫
+      - generic [ref=f13e100]:
+        - generic [ref=f13e101]: Giảm giá!
+        - link [ref=f13e102] [cursor=pointer]:
+          - /url: san-pham.html?slug=bo-dao-6-mon-gkoch-kem-doc-go
+          - img "Bộ Dao 6 Món GKÖCH Kèm Đốc Gỗ – Đẳng Cấp Chef Đức Tại Gia" [ref=f13e103]
+        - heading [level=3] [ref=f13e104]:
+          - link "Bộ Dao 6 Món GKÖCH Kèm Đốc Gỗ – Đẳng Cấp Chef Đức Tại Gia" [ref=f13e105] [cursor=pointer]:
+            - /url: san-pham.html?slug=bo-dao-6-mon-gkoch-kem-doc-go
+        - generic [ref=f13e106]: 3.450.000 ₫2.790.000 ₫
+      - generic [ref=f13e107]:
+        - generic [ref=f13e108]: Giảm giá!
+        - link [ref=f13e109] [cursor=pointer]:
+          - /url: san-pham.html?slug=bo-dao-4-mon-gume-korea-gmk-23
+          - img "Bộ Dao 4 Món Cao Cấp Gume Korea GMK-23 – Thép Không Gỉ Sắc Bén" [ref=f13e110]
+        - heading [level=3] [ref=f13e111]:
+          - link "Bộ Dao 4 Món Cao Cấp Gume Korea GMK-23 – Thép Không Gỉ Sắc Bén" [ref=f13e112] [cursor=pointer]:
+            - /url: san-pham.html?slug=bo-dao-4-mon-gume-korea-gmk-23
+        - generic [ref=f13e113]: 790.000 ₫590.000 ₫
+      - generic [ref=f13e114]:
+        - generic [ref=f13e115]: Giảm giá!
+        - link [ref=f13e116] [cursor=pointer]:
+          - /url: san-pham.html?slug=chao-3-ngan-chien-trung-2lock-han-quoc
+          - img "Chảo 3 Ngăn Chiên Trứng 2Lock Hàn Quốc – Phủ Sứ Gốm Cao Cấp Đáy Từ" [ref=f13e117]
+        - heading [level=3] [ref=f13e118]:
+          - link "Chảo 3 Ngăn Chiên Trứng 2Lock Hàn Quốc – Phủ Sứ Gốm Cao Cấp Đáy Từ" [ref=f13e119] [cursor=pointer]:
+            - /url: san-pham.html?slug=chao-3-ngan-chien-trung-2lock-han-quoc
+        - generic [ref=f13e120]: 890.000 ₫690.000 ₫
+      - generic [ref=f13e121]:
+        - generic [ref=f13e122]: Giảm giá!
+        - link [ref=f13e123] [cursor=pointer]:
+          - /url: san-pham.html?slug=bo-noi-nhom-duc-chong-dinh-gkoch-4-mon
+          - img "Bộ Nồi Nhôm Đúc Chống Dính GKÖCH 4 Món Cao Cấp" [ref=f13e124]
+        - heading [level=3] [ref=f13e125]:
+          - link "Bộ Nồi Nhôm Đúc Chống Dính GKÖCH 4 Món Cao Cấp" [ref=f13e126] [cursor=pointer]:
+            - /url: san-pham.html?slug=bo-noi-nhom-duc-chong-dinh-gkoch-4-mon
+        - generic [ref=f13e127]: 2.690.000 ₫2.090.000 ₫
+      - generic [ref=f13e128]:
+        - link [ref=f13e129] [cursor=pointer]:
+          - /url: san-pham.html?slug=quanh-scanpan-mini-12cm
+          - img "Quánh Scanpan Mini 12cm 0,6L có nắp" [ref=f13e130]
+        - heading [level=3] [ref=f13e131]:
+          - link "Quánh Scanpan Mini 12cm 0,6L có nắp" [ref=f13e132] [cursor=pointer]:
+            - /url: san-pham.html?slug=quanh-scanpan-mini-12cm
+        - generic [ref=f13e133]: 780.000 ₫
+      - generic [ref=f13e134]:
+        - link [ref=f13e135] [cursor=pointer]:
+          - /url: san-pham.html?slug=tefal-duetto-plus-28cm-10-4l
+          - img "Nồi Tefal Duetto Plus 28cm 10,4L luộc gà" [ref=f13e136]
+        - heading [level=3] [ref=f13e137]:
+          - link "Nồi Tefal Duetto Plus 28cm 10,4L luộc gà" [ref=f13e138] [cursor=pointer]:
+            - /url: san-pham.html?slug=tefal-duetto-plus-28cm-10-4l
+        - generic [ref=f13e139]: 950.000 ₫
+      - generic [ref=f13e140]:
+        - link [ref=f13e141] [cursor=pointer]:
+          - /url: san-pham.html?slug=bo-dao-la-cote-6-mon
+          - img "Bộ 6 dao LA CÔTE kèm đốc gỗ Pakka" [ref=f13e142]
+        - heading [level=3] [ref=f13e143]:
+          - link "Bộ 6 dao LA CÔTE kèm đốc gỗ Pakka" [ref=f13e144] [cursor=pointer]:
+            - /url: san-pham.html?slug=bo-dao-la-cote-6-mon
+        - generic [ref=f13e145]: 1.990.000 ₫
+      - generic [ref=f13e146]:
+        - link [ref=f13e147] [cursor=pointer]:
+          - /url: san-pham.html?slug=bep-tu-don-rommelsbacher-ct-2100-in
+          - img "Bếp từ đơn Rommelsbacher CT 2100/IN 2100W" [ref=f13e148]
+        - heading [level=3] [ref=f13e149]:
+          - link "Bếp từ đơn Rommelsbacher CT 2100/IN 2100W" [ref=f13e150] [cursor=pointer]:
+            - /url: san-pham.html?slug=bep-tu-don-rommelsbacher-ct-2100-in
+        - generic [ref=f13e151]: 1.950.000 ₫
+      - generic [ref=f13e152]:
+        - generic [ref=f13e153]: Giảm giá!
+        - link [ref=f13e154] [cursor=pointer]:
+          - /url: san-pham.html?slug=noi-com-cao-tan-cuckoo-crp-nhtr0610-1-08l
+          - img "Nồi Cơm Cao Tần Cuckoo CRP-NHTR0610 1.08L – IH Áp Suất" [ref=f13e155]
+        - heading [level=3] [ref=f13e156]:
+          - link "Nồi Cơm Cao Tần Cuckoo CRP-NHTR0610 1.08L – IH Áp Suất" [ref=f13e157] [cursor=pointer]:
+            - /url: san-pham.html?slug=noi-com-cao-tan-cuckoo-crp-nhtr0610-1-08l
+        - generic [ref=f13e158]: 12.900.000 ₫9.200.000 ₫
+      - generic [ref=f13e159]:
+        - generic [ref=f13e160]: Giảm giá!
+        - link [ref=f13e161] [cursor=pointer]:
+          - /url: san-pham.html?slug=noi-lau-hap-dien-joyoung-jfs-556-da-nang-tien-loi-nau-gi-cung-ngon
+          - img "Nồi Lẩu Hấp Điện Joyoung JFS-556 – 2in1 Lẩu 4.5L + Hấp 16L" [ref=f13e162]
+        - heading [level=3] [ref=f13e163]:
+          - link "Nồi Lẩu Hấp Điện Joyoung JFS-556 – 2in1 Lẩu 4.5L + Hấp 16L" [ref=f13e164] [cursor=pointer]:
+            - /url: san-pham.html?slug=noi-lau-hap-dien-joyoung-jfs-556-da-nang-tien-loi-nau-gi-cung-ngon
+        - generic [ref=f13e165]: 2.490.000 ₫1.790.000 ₫
+    - navigation [ref=f13e166]:
+      - generic [ref=f13e167]: "1"
+      - link "2" [ref=f13e168] [cursor=pointer]:
+        - /url: "?slug=do-dung-nha-bep&paged=2"
+      - link "3" [ref=f13e169] [cursor=pointer]:
+        - /url: "?slug=do-dung-nha-bep&paged=3"
+      - link "→" [ref=f13e170] [cursor=pointer]:
+        - /url: "?slug=do-dung-nha-bep&paged=2"
+  - generic [ref=f13e171]:
+    - contentinfo [ref=f13e172]:
+      - generic [ref=f13e174]:
+        - generic [ref=f13e175]:
+          - heading "Thông tin liên hệ" [level=5] [ref=f13e176]
+          - paragraph [ref=f13e177]: "Địa chỉ: S219 Đại Dương 8, Vinhomes Ocean Park, Gia Lâm, Hà Nội Hotline: 086 639 3892 Email: dolphinhouse.vn@gmail.com Tư vấn: Đồ gia dụng thông minh, điện gia dụng và tiện ích cao cấp cho gia đình hiện đại"
+          - generic [ref=f13e178]:
+            - link "Facebook" [ref=f13e179] [cursor=pointer]:
+              - /url: "#"
+              - text: f
+            - link "YouTube" [ref=f13e180] [cursor=pointer]:
+              - /url: "#"
+              - text: ▶
+        - generic [ref=f13e181]:
+          - heading "Trợ giúp" [level=5] [ref=f13e182]
+          - list [ref=f13e183]:
+            - listitem [ref=f13e184]:
+              - link "› Gia dụng thông minh cao cấp" [ref=f13e185] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=f13e186]:
+              - link "› Tư vấn chọn mua" [ref=f13e187] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f13e188]:
+              - link "› Về Dolphin House" [ref=f13e189] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f13e190]:
+              - link "› Hỗ trợ khách hàng" [ref=f13e191] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f13e192]:
+              - link "› Hình thức thanh toán" [ref=f13e193] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f13e194]:
+              - link "› Chính sách vận chuyển" [ref=f13e195] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f13e196]:
+          - heading "Dolphin House" [level=5] [ref=f13e197]
+          - paragraph [ref=f13e198]: "- sản phẩm chọn lọc, tư vấn rõ ràng, giao diện gọn nhẹ."
+        - generic [ref=f13e199]:
+          - heading "Bản đồ" [level=5] [ref=f13e200]
+          - img "Bản đồ Dolphin House" [ref=f13e201]
+          - button "Xem bản đồ" [ref=f13e202] [cursor=pointer]
+      - generic [ref=f13e203]: Copyright © 2026 dolphinhouse.vn - All Rights Reserved.
+    - link "Chat Zalo" [ref=f13e204] [cursor=pointer]:
+      - /url: https://zalo.me/0866393892
+      - text: Z
